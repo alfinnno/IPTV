@@ -1,3 +1,103 @@
-#EXTM3U
-#EXTINF:0 tvg-country=" tvg-logo="" group-title="Undefined",iptvcat.com
-https://list.iptvcat.com/assets/videos/lazycat-iptvcat.com.mp4
+#LOKAL
+#EXTINF:-1 ,Lokal-100 TVRI
+rtp://@239.1.1.37:8196
+#EXTINF:-1 ,Lokal-101 METROTV
+rtp://@239.1.1.19:8088
+#EXTINF:-1 ,Lokal-102 CNN INDONESIA
+rtp://@239.1.1.241:9362
+#EXTINF:-1 ,Lokal-103 TVONE
+rtp://@239.1.1.31:8160
+#EXTINF:-1 ,Lokal-104 TRANSTV
+rtp://@239.1.1.27:8136
+#EXTINF:-1 ,Lokal-105 TRANS7
+rtp://@239.1.1.29:8148
+#EXTINF:-1 ,Lokal-106 SCTV
+rtp://@239.1.1.21:8100
+#EXTINF:-1 ,Lokal-107 INDOSIAR
+rtp://@239.1.1.17:8076
+#EXTINF:-1 ,Lokal-108 ANTV
+rtp://@239.1.1.15:8064
+#EXTINF:-1 ,Lokal-109 RCTI
+rtp://@239.1.1.23:8112
+#EXTINF:-1 ,Lokal-110 GLOBAL TV
+rtp://@239.1.1.13:8052
+#EXTINF:-1 ,Lokal-111 MNCTV
+rtp://@239.1.1.25:8124
+#EXTINF:-1 ,Lokal- Kompas TV
+rtp://@239.1.1.197:9156
+#EXTINF:-1 ,Lokal- NET TV
+rtp://@239.1.1.119:8688
+#Documentary
+#EXTINF:-1 ,Documentay-201 National Geographic
+rtp://@239.1.1.169:8988
+#EXTINF:-1 ,Documentay-202 National Geographic Wild
+rtp://@239.1.1.35:8184
+#KIDS
+#EXTINF:-1 ,KIDS-23 Dunia Anak
+rtp://@239.1.1.7:8016
+#EXTINF:-1 ,KIDS-301 Disney Channel
+rtp://@239.1.1.45:8244
+#EXTINF:-1 ,KIDS-303 Da Vinci Learning
+rtp://@239.1.1.99:8568
+#EXTINF:-1 ,KIDS-304 Nickelodeon
+rtp://@239.1.1.41:8220
+#EXTINF:-1 ,KIDS-306 Carton Network
+rtp://@239.1.1.123:8712
+#EXTINF:-1 ,KIDS-307 Toonami
+rtp://@239.1.1.143:8832
+#EXTINF:-1 ,KIDS-308 Boomerang
+rtp://@239.1.1.73:8412
+#LIFESTYLE
+#EXTINF:-1 ,LIFESTYLE-404 Fashion TV
+rtp://@239.1.1.79:8448
+#MUSIK
+#EXTINF:-1 ,Musik-450 MTV Asia
+rtp://@239.1.1.5:8004
+#EXTINF:-1 ,Musik-452 Channel [V]
+
+rtp://@239.1.1.173:9012
+#Entertainment channel 500
+#MOVIE Channel 600
+#EXTINF:-1 ,Movie-601 HBO
+rtp://@239.1.1.95:8544
+#EXTINF:-1 ,Movie-602 HBO Signature
+rtp://@239.1.1.93:8532
+#EXTINF:-1 ,Movie-603 CINEMAX
+rtp://@239.1.1.87:8496
+#EXTINF:-1 ,Movie-604 HBO Hits
+rtp://@239.1.1.91:8520
+#EXTINF:-1 ,Movie-605 HBO Family
+rtp://@239.1.1.89:8508
+#EXTINF:-1 ,Movie-607 FOX Movie Premium
+rtp://@239.1.1.11:8040
+#EXTINF:-1 ,Movie-608 FOX Family Movie
+rtp://@239.1.1.175:9024
+#EXTINF:-1 ,Movie-609 FOX Action Movie
+rtp://@239.1.1.125:8724
+#EXTINF:-1 ,Movie-611 Celestial Movie
+rtp://@239.1.1.97:8558
+#EXTINF:-1 ,Movie-612 Star Chinese Movie
+rtp://@239.1.1.131:8760
+#EXTINF:-1 ,Movie-613 Star Chinese Movie Legend
+rtp://@239.1.1.151:8880
+#EXTINF:-1 ,Movie-614 Z Bioskop
+rtp://@239.1.1.129:8748
+#SPORT Channel 700
+#Relligious Channel 800
+#EXTINF:-1 ,Religious-814 Al Quran Al Kareem
+rtp://@239.1.1.185:9084
+#NEWS Channel 800
+#EXTINF:-1 ,NEWS-801 CNN
+rtp://@239.1.1.105:8604
+#EXTINF:-1 ,NEWS-802 Bloomberg TV Asia
+rtp://@239.1.1.199:9168
+#EXTINF:-1 ,NEWS-803 CNBC Asia
+rtp://@239.1.1.155:8904
+#EXTINF:-1 ,NEWS-805 Al-jazeera
+rtp://@239.1.1.195:9144
+#EXTINF:-1 ,NEWS-811 CCTV 4
+rtp://@239.1.1.115:8664
+#EXTINF:-1 ,NEWS-812 CCTV 9 Documentary
+rtp://@239.1.1.121:8700
+
+
