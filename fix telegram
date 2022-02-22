@@ -1,0 +1,188 @@
+group,LOKAL
+ext,TRANS TV,http://103.30.87.238:443/terial0302/88922/26
+ext,TRANS 7,http://103.30.87.238:443/terial0302/88922/27
+ext,CNBC Indonesia,http://103.30.87.238:443/terial0302/88922/92
+ext,CNN Indonesia,http://103.30.87.238:443/terial0302/88922/581
+ext,RCTI,http://103.30.87.238:443/terial0302/88922/516
+ext,MNC TV,http://103.30.87.238:443/terial0302/88922/858
+ext,Inews,http://103.30.87.238:443/terial0302/88922/1419
+rtvint,RTV,http://103.30.87.238:443/terial0302/88922/1193
+gtv.il,GTV,http://103.30.87.238:443/terial0302/88922/913
+ext,SCTV,http://103.30.87.238:443/terial0302/88922/890
+ext,Indosiar,http://103.30.87.238:443/terial0302/88922/907
+ext,ANTV,http://103.30.87.238:443/terial0302/88922/891
+ext,O Channel,http://103.30.87.238:443/terial0302/88922/1359
+ext,KompasTV,http://103.30.87.238:443/terial0302/88922/809
+ext,Berita Satu,http://103.30.87.238:443/terial0302/88922/570
+ext,TVRI,http://103.30.87.238:443/terial0302/88922/102
+ext,METROTV,http://103.30.87.238:443/terial0302/88922/32
+NETtv.svn,NET TV,http://103.30.87.238:443/terial0302/88922/889
+TVOne.uk,TV ONE,http://103.30.87.238:443/terial0302/88922/1529
+ext,Daai TV,http://103.30.87.238:443/terial0302/88922/1618
+
+group,INTERNATIONAL NEWS
+AljazeeraEng.il,Al Jazeera,http://103.30.87.238:443/terial0302/88922/95
+BBCNews.nws,BBC News,http://103.30.87.238:443/terial0302/88922/97
+bloomberg,Bloomberg,http://103.30.87.238:443/terial0302/88922/403
+nhk-world,NHK World,http://103.30.87.238:443/terial0302/88922/583
+ABCNews.al,ABC News,http://103.30.87.238:443/terial0302/88922/592
+ext,CBS Network,http://103.30.87.238:443/terial0302/88922/792
+dwelle,DW English,http://103.30.87.238:443/terial0302/88922/928
+cnn,CNN International,http://103.30.87.238:443/terial0302/88922/1187
+ext,Channel News Asia,http://103.30.87.238:443/terial0302/88922/1300
+CGTN.cn,CGTN,http://103.30.87.238:443/terial0302/88922/1553
+
+group,KNOWLEDGE
+natgeo,National Geographic,http://103.30.87.238:443/terial0302/88922/69
+natgeowild,Nat Geo Wild,http://103.30.87.238:443/terial0302/88922/71
+ext,Discovery Asia,http://103.30.87.238:443/terial0302/88922/1296
+BBCEarth.pl,BBC Earth,http://103.30.87.238:443/terial0302/88922/560
+history-rus,History,http://103.30.87.238:443/terial0302/88922/66
+ext,Smithsonian,http://103.30.87.238:443/terial0302/88922/63
+animal_rus,Animal Planet,http://103.30.87.238:443/terial0302/88922/65
+LoveNature.uk,Love Nature,http://103.30.87.238:443/terial0302/88922/64
+ext,TechStorm,http://103.30.87.238:443/terial0302/88922/1574
+discov_rus,Discovery Channel,http://103.30.87.238:443/terial0302/88922/1169
+
+group,LIFESTYLE
+fashion,Fashion TV,http://103.30.87.238:443/terial0302/88922/404
+ext,AFN,http://103.30.87.238:443/terial0302/88922/905
+hgtv,HGTV,http://103.30.87.238:443/terial0302/88922/906
+tlc-russia,TLC,http://103.30.87.238:443/terial0302/88922/916
+Lifetime.uk,Lifetime,http://103.30.87.238:443/terial0302/88922/1129
+ext,Waku Waku Japan,http://103.30.87.238:443/terial0302/88922/1228
+
+group,ENTERTAINMENT
+ext,Rock Entertainment,http://103.30.87.238:443/terial0302/88922/899
+ext,Rock Extreme,http://103.30.87.238:443/terial0302/88922/333
+ext,Sony One,http://103.30.87.238:443/terial0302/88922/951
+ext,Sony GEM,http://103.30.87.238:443/terial0302/88922/984
+ext,K+,http://103.30.87.238:443/terial0302/88922/1287
+TVN.pl,TvN,http://103.30.87.238:443/terial0302/88922/708
+KBSWorld.us,KBS World,http://103.30.87.238:443/terial0302/88922/601
+SkyCinemaHits.de,HITS,http://103.30.87.238:443/terial0302/88922/1004
+AXN.bg,AXN,http://103.30.87.238:443/terial0302/88922/1278
+CrimeAndInvestigationNetwork.uk,Crime Investigation,http://103.30.87.238:443/terial0302/88922/1380
+ext,Dunia Lain,http://103.30.87.238:443/terial0302/88922/1231
+ext,Citra Drama,http://103.30.87.238:443/terial0302/88922/3286
+
+group,VARIETY
+arirang-en,Arirang,http://103.30.87.238:443/terial0302/88922/738
+ext,Jowo Chanel,http://103.30.87.238:443/terial0302/88922/1517
+DiscoveryDMAX.uk,DMax,http://103.30.87.238:443/terial0302/88922/1961
+ext,Eat & Go,http://103.30.87.238:443/terial0302/88922/1990
+ext,The Indonesian Chanel,http://103.30.87.238:443/terial0302/88922/1559
+TravelXP.in,Travel XP,http://103.30.87.238:443/terial0302/88922/1576
+ext,Astro BOO,http://103.30.87.238:443/terial0302/88922/1577
+ext,Break TV,http://103.30.87.238:443/terial0302/88922/1590
+ext,Astro Warna,http://103.30.87.238:443/terial0302/88922/3614
+ext,Astro Ria,http://103.30.87.238:443/terial0302/88922/3615
+ext,Astro Citra,http://103.30.87.238:443/terial0302/88922/3616
+
+group,MOVIES
+ext,Anime+,http://103.30.87.238:443/terial0302/88922/1151
+ext,Bolly+,http://103.30.87.238:443/terial0302/88922/1571
+ext,Drama+,http://103.30.87.238:443/terial0302/88922/1152
+ext,Family+,http://103.30.87.238:443/terial0302/88922/1361
+ext,Movie+,http://103.30.87.238:443/terial0302/88922/1144
+SeriesPlus.ca,Series+,http://103.30.87.238:443/terial0302/88922/1360
+HBOAdria.rs,HBO,http://103.30.87.238:443/terial0302/88922/8
+HBOHits.in,HBO Hits,http://103.30.87.238:443/terial0302/88922/10
+HBOSignature.mx,HBO Signature,http://103.30.87.238:443/terial0302/88922/893
+Hbofamily.br,HBO Family,http://103.30.87.238:443/terial0302/88922/1111
+CinemaxO.mx,Cinemax,http://103.30.87.238:443/terial0302/88922/1109
+ext,My Cinema,http://103.30.87.238:443/terial0302/88922/1375
+ext,My Cinema Asia,http://103.30.87.238:443/terial0302/88922/1421
+ext,&Flix,http://103.30.87.238:443/terial0302/88922/1191
+priveHD.in,&Prive HD,http://103.30.87.238:443/terial0302/88922/1234
+ext,Stars Movies,http://103.30.87.238:443/terial0302/88922/1266
+ext,Stars Movies Select,http://103.30.87.238:443/terial0302/88922/1290
+SonyPIX.in,Sony Pix,http://103.30.87.238:443/terial0302/88922/1289
+ext,WarnerTV,http://103.30.87.238:443/terial0302/88922/1206
+Paramount.uk,Paramount,http://103.30.87.238:443/terial0302/88922/1373
+galaxy,Galaxy,http://103.30.87.238:443/terial0302/88922/1281
+ext,Galaxy Premium,http://103.30.87.238:443/terial0302/88922/1282
+ext,Cinema World,http://103.30.87.238:443/terial0302/88922/1291
+ext,Hits Movies,http://103.30.87.238:443/terial0302/88922/1292
+ext,Thrill,http://103.30.87.238:443/terial0302/88922/1219
+ext,Celestial Movies,http://103.30.87.238:443/terial0302/88922/42
+ext,CCM,http://103.30.87.238:443/terial0302/88922/1364
+ext,Zee Bioskop,http://103.30.87.238:443/terial0302/88922/1125
+ext,TvN Movies,http://103.30.87.238:443/terial0302/88922/1221
+ext,Flik,http://103.30.87.238:443/terial0302/88922/1213
+ext,IMC,http://103.30.87.238:443/terial0302/88922/1214
+ext,Bioskop Indonesia,http://103.30.87.238:443/terial0302/88922/1223
+Kix.uk,KIX,http://103.30.87.238:443/terial0302/88922/1567
+ext,Star Chinese Movie,http://103.30.87.238:443/terial0302/88922/1342
+
+group,MUSIC
+ext,T Music,http://103.30.87.238:443/terial0302/88922/1195
+mtv-rus,MTV,http://103.30.87.238:443/terial0302/88922/1005
+ext,Musik Indonesia,http://103.30.87.238:443/terial0302/88922/1202
+ext,Pop Musik,http://103.30.87.238:443/terial0302/88922/1201
+ext,Country Network,http://103.30.87.238:443/terial0302/88922/1200
+TeleMelody.fr,Melody,http://103.30.87.238:443/terial0302/88922/1153
+vh-1-classic,Classic,http://103.30.87.238:443/terial0302/88922/3298
+ext,Metal TV,http://103.30.87.238:443/terial0302/88922/3486
+
+group,KIDS
+boomerang,Boomerang,http://103.30.87.238:443/terial0302/88922/1277
+cartoon,Cartoon Network,http://103.30.87.238:443/terial0302/88922/1189
+nickelodeon-rus,Nickelodeon,http://103.30.87.238:443/terial0302/88922/991
+Animax.de,Animax,http://103.30.87.238:443/terial0302/88922/929
+ext,Aniplus,http://103.30.87.238:443/terial0302/88922/910
+Dreamworks.es,Dreamworks,http://103.30.87.238:443/terial0302/88922/1386
+ext,Dunia Anak,http://103.30.87.238:443/terial0302/88922/1384
+nick-jr,Nick Junior,http://103.30.87.238:443/terial0302/88922/1385
+BABYFIRST.sp,Baby First,http://103.30.87.238:443/terial0302/88922/1383
+Zoomoo.br,Zoomoo,http://103.30.87.238:443/terial0302/88922/1387
+ext,KidsTV,http://103.30.87.238:443/terial0302/88922/3285
+
+group,RELIGI
+ext,Rodja TV,http://103.30.87.238:443/terial0302/88922/180
+ext,Reformed 21,http://103.30.87.238:443/terial0302/88922/571
+ext,Makkah TV,http://103.30.87.238:443/terial0302/88922/586
+ext,MQTV,http://103.30.87.238:443/terial0302/88922/1140
+ext,AjwaTV,http://103.30.87.238:443/terial0302/88922/1265
+ext,Al Hijrah,http://103.30.87.238:443/terial0302/88922/3145
+ext,Al Bahjah,http://103.30.87.238:443/terial0302/88922/3478
+
+group,SPORT
+ext,Golf TV,http://103.30.87.238:443/terial0302/88922/100
+ext,One Golf,http://103.30.87.238:443/terial0302/88922/1334
+NBA.blt,NBA TV,http://103.30.87.238:443/terial0302/88922/901
+ext,Fight Sport,http://103.30.87.238:443/terial0302/88922/1128
+WWE.ca,WWE,http://103.30.87.238:443/terial0302/88922/1374
+ext,SPOTV,http://103.30.87.238:443/terial0302/88922/1355
+BTSport1.uk,BT Sport 1,http://103.30.87.238:443/terial0302/88922/1102
+BTSport2.uk,BT Sport 2,http://103.30.87.238:443/terial0302/88922/1083
+BTSport3.uk,BT Sport 3,http://103.30.87.238:443/terial0302/88922/1065
+beINSPORTSenespanol.us,Bein Sport,http://103.30.87.238:443/terial0302/88922/902
+bein3hd.jsc,Bein Sport 3,http://103.30.87.238:443/terial0302/88922/1081
+ext,Soccer Chanel,http://103.30.87.238:443/terial0302/88922/1378
+sport-plus,Sport+,http://103.30.87.238:443/terial0302/88922/1274
+ext,Sport+ 2,http://103.30.87.238:443/terial0302/88922/1337
+ext,Sport+ 3,http://103.30.87.238:443/terial0302/88922/1448
+ext,TVRI Sport,http://103.30.87.238:443/terial0302/88922/1557
+ext,Usee Sport1,http://103.30.87.238:443/terial0302/88922/1376
+ext,Usee Sport2,http://103.30.87.238:443/terial0302/88922/1377
+ext,Astro Arena,http://103.30.87.238:443/terial0302/88922/1346
+ext,Astro Arena 2,http://103.30.87.238:443/terial0302/88922/1379
+ext,Astro SuperSport 1,http://103.30.87.238:443/terial0302/88922/1091
+ext,Astro SuperSport 2,http://103.30.87.238:443/terial0302/88922/1092
+ext,Astro SuperSport 3,http://103.30.87.238:443/terial0302/88922/1096
+ext,Astro SuperSport 4,http://103.30.87.238:443/terial0302/88922/1135
+ext,Astro Supersport 5,http://103.30.87.238:443/terial0302/88922/1365
+ext,MotorSport,http://103.30.87.238:443/terial0302/88922/3284
+ext,Sport+ 4,http://103.30.87.238:443/terial0302/88922/3775
+
+group,CCTV LIVE
+ext,Jl. Malioboro - Yogyakarta,http://103.30.87.238:443/terial0302/88922/1584
+ext,Shanghai,http://103.30.87.238:443/terial0302/88922/1620
+ext,Cibeureum - Bandung,http://103.30.87.238:443/terial0302/88922/3287
+ext,CCTV YOGYAKARTA - Simpang Tugu,http://103.30.87.238:443/terial0302/88922/1402
+ext,Asia Afrika - Bandung,http://103.30.87.238:443/terial0302/88922/3288
+ext,Pasteur - Bandung,http://103.30.87.238:443/terial0302/88922/3289
+ext,Buah Batu - Bandung,http://103.30.87.238:443/terial0302/88922/3290
+ext,Gunung Merapi,http://103.30.87.238:443/terial0302/88922/1564
+
