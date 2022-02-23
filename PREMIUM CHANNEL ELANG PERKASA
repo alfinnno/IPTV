@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ELANG PERKASA" tvg-name="ELANG PERKASA " tvg-logo="https://pbs.twimg.com/media/FMP35HaUcAAqxCv?format=png&name=small",TRANS TV 
+https://previews.dropbox.com/p/hls_playlist/ABe32622zSCV77c-q4tCCM9dUWMBUc3eSTqw14R-AN93h-p2y2nz-01w0r3loJwTR9hNoxdUNVA8Zy6R67pv51xvuMlqJRPu0BVL8kwpQVlDqiBXyv80yaJUwdnE8Fl7HZlCL6uyoyzpDIzXwtaqcf-jsfFT4-9MOm9ot1YEs58YHuuctO19UAHnY9zhSsLAQcd6CZ2JqpDHy82u_1_5btaT9DKaGpBzKzSf1rRnl0F4_1vZJx2Fqvp42IQ_WuVEH5tSpwIpehxk2Yx9a_0C9UdfRDIxt2pKRPxRJfOoNRlwA4MHpVzuenCZxZwMFL7F7t2a2LPgXfN7Z1b_FWDA-X3JKCv_kYORtXsQA2qW2u60ZCwByTZGmVVjbZnpLnngyTuw237os4pjEoJWQfbASWELJrxgpY_TjDyKXmErS2sK929yuJhqeZHUxzCC-skAfHB2KaRQlp5zsxtpEOYLYgXE/p.m3u8?size=854x480&type=video
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV " tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Elang Perkasa-Local",TRANS TV 
 http://103.30.87.238:443/elangperkasa/1sampai7/26
 #EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Elang Perkasa-Local",TRANS 7
