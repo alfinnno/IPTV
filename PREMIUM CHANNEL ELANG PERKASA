@@ -1,6 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ELANG PERKASA" tvg-name="TRANS TV " tvg-logo="https://pbs.twimg.com/media/FMP35HaUcAAqxCv?format=png&name=small",ELANG PERKASA TV
-https://twitter.com/i/status/1496314562475401218
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:5.400000,
+result0.ts
+#EXT-X-ENDLIST
+
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV " tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Elang Perkasa-Local",TRANS TV 
 http://103.30.87.238:443/elangperkasa/1sampai7/26
 #EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Elang Perkasa-Local",TRANS 7
