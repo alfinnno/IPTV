@@ -327,5 +327,5 @@ http://103.30.87.238:443/elangperkasa/1sampai7/3616
 http://103.30.87.238:443/elangperkasa/1sampai7/1169
 #EXTINF:-1 tvg-id="" tvg-name="Sport+ 4" tvg-logo="" group-title="Elang Perkasa-Sport",Sport+ 4
 http://103.30.87.238:443/elangperkasa/1sampai7/3775
-#EXTINF:-1 tvg-id="" tvg-name="Sp Gedebage" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",SP Gedebage
-http://atcs-dishub.bandung.go.id/b88596e8-c5a0-4804-babd-f28079e1f60f
+#EXTINF:-1 tvg-id="" tvg-name="Supratman" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",Supratman
+http://45.118.114.26/camera/Supratman.m3u8
