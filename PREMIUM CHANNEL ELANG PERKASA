@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ELANG PERKASA TV" tvg-name="ELANG PERKASA " tvg-logo="https://pbs.twimg.com/media/FMP35HaUcAAqxCv?format=png&name=small" group-title="Elang Perkasa-Local",ELANG PERKASA
-#EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:5
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:5.433333,
