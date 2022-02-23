@@ -1,4 +1,5 @@
-#EXTINF:#EXTINF:0 tvg-id="ext" tvg-name="ELANG PERKASA " tvg-logo="https://pbs.twimg.com/media/FMP35HaUcAAqxCv?format=png&name=small",ELANG PERKASA TV
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
 result0.ts
 #EXTM3U
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV " tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Elang Perkasa-Local",TRANS TV 
