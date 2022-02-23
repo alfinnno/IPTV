@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-result0.ts
-#EXTM3U
+#EXTINF:-1 tvg-id="ELANG PERKASA TV" tvg-name="ELANG PERKASA " tvg-logo="https://pbs.twimg.com/media/FMP35HaUcAAqxCv?format=png&name=small" group-title="Elang Perkasa-Local",ELANG PERKASA
+https://drive.google.com/file/d/1d3aK0HeqT-3-eJZCEDgM6F9cFDXJnRzH/view?usp=sharing
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV " tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Elang Perkasa-Local",TRANS TV 
 http://103.30.87.238:443/elangperkasa/1sampai7/26
 #EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Elang Perkasa-Local",TRANS 7
