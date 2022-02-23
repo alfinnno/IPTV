@@ -1,10 +1,6 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:5.433333,
-Desain_tanpa_judul0.ts
-#EXT-X-ENDLIST
-
+#EXTINF:-1 tvg-id="ELANG PERKASA TV" tvg-name="ELANG PERKASA " tvg-logo="https://pbs.twimg.com/media/FMP35HaUcAAqxCv?format=png&name=small",ELANG PERKASA 
+https://www.canva.com/design/DAE5IvJx9fc/h5F7_vEGXzyOIBygCMuiMA/watch?utm_content=DAE5IvJx9fc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV " tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Elang Perkasa-Local",TRANS TV 
 http://103.30.87.238:443/elangperkasa/1sampai7/26
 #EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Elang Perkasa-Local",TRANS 7
