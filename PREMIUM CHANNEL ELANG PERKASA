@@ -337,5 +337,17 @@ EXTINF:-1 tvg-id="" tvg-name="SP Pasteur" tvg-logo="https://i.ibb.co/XbYsYL2/liv
 http://45.118.114.26/camera/Pasteur.m3u8
 EXTINF:-1 tvg-id="" tvg-name="SP Trunojoyo" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",SP Trunojoyo
 http://45.118.114.26/camera/Trunojoyo.m3u8
+#EXTINF:-1 "TruePremierFootballHD1.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png" group-title="Elang Perkasa-Sport",True Premier Football HD 1
+https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 "TruePremierFootballHD2.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png" group-title="Elang Perkasa-Sport",True Premier Football HD 2
+https://smart-tv.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 "TruePremierFootballHD3.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png" group-title="Elang Perkasa-Sport",True Premier Football HD 3
+https://smart-tv.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 "TruePremierFootballHD4.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl4.png" group-title="Elang Perkasa-Sport",True Premier Football HD 4
+https://smart-tv.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 "TruePremierFootballHD5.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="Elang Perkasa-Sport",True Premier Football HD 5
+https://smart-tv.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
+
+
 
 
