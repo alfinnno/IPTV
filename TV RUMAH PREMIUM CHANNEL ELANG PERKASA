@@ -355,5 +355,7 @@ http://red.ipfox.org:8080/1234/12345678/31489
 http://red.ipfox.org:8080/1234/12345678/31488
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F207%2Fbein-sports-hd-1.png" group-title="Elang Perkasa-Sport",Bein Sport 7
 http://red.ipfox.org:8080/1234/12345678/31487
+EXTINF:-1 tvg-id="" tvg-name="UA UKRAINE" tvg-logo="https://live-ua-tv.cosmonova.net.ua/images/offline-images/stub_ua.png" group-title="Elang Perkasa-News",UA UKRAINE 
+https://ua-tv.cdn-02.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 
 
