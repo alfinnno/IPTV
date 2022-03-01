@@ -1,4 +1,3 @@
-EXTINF:-1 tvg-id="" tvg-name="UA UKRAINE TV" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/10/UATV.png" group-title="Elang Perkasa-News",UA UKRAINE TV
+EXTINF:-1 tvg-id="" tvg-name="UA UKRAINE" tvg-logo="https://live-ua-tv.cosmonova.net.ua/images/offline-images/stub_ua.png" group-title="Elang Perkasa-News",UA UKRAINE 
 https://ua-tv.cdn-02.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP RAYA KUTA" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",SP RAYA KUTA
-http://103.138.206.40/camera/SP_RAYA_KUTA.m3u8
+
