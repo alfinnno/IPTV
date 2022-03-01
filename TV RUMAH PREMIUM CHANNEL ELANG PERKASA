@@ -335,5 +335,10 @@ http://45.118.114.26/camera/Batununggal.m3u8
 http://45.118.114.26/camera/Gardujati.m3u8
 EXTINF:-1 tvg-id="" tvg-name="SP Pasteur" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",SP Pasteur
 http://45.118.114.26/camera/Pasteur.m3u8
-
+EXTINF:-1 tvg-id="" tvg-name="UA UKRAINE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_UATV.png" group-title="Elang Perkasa-News",UA UKRAINE TV
+http://45.118.114.26/camera/Pasteur.m3u8
+EXTINF:-1 tvg-id="" tvg-name="RUSIA 24 NEWS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Russia-24.png" group-title="Elang Perkasa-News",RUSIA 24 NEWS TV
+https://player.vgtrk.com/iframe/live/id/21/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r24/
+#EXTINF:-1 tvg-id="" tvg-name="KYIV UKRAINE" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",KYIV UKRAINE
+https://www.youtube.com/embed/HIPNVm6lNfM
 
