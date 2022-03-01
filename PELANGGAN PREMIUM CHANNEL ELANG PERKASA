@@ -1,0 +1,309 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV " tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Elang Perkasa-Local",TRANS TV 
+http://103.30.87.238:443/ELANGTV/1sampai7/26
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Elang Perkasa-Local",TRANS 7
+http://103.30.87.238:443/ELANGTV/1sampai7/27
+#EXTINF:-1 tvg-id="CNBCIndonesia.MACAN" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/hyWjnZ7/cnbc-indonesia-home-tv.png" group-title="Elang Perkasa-Local",CNBC Indonesia
+http://103.30.87.238:443/ELANGTV/1sampai7/92
+#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/GVqKN0m/cnn-indonesia-home-tv.png" group-title="Elang Perkasa-Local",CNN Indonesia
+http://103.30.87.238:443/ELANGTV/1sampai7/581
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png" group-title="Elang Perkasa-Local",RCTI
+http://103.30.87.238:443/ELANGTV/1sampai7/516
+#EXTINF:-1 tvg-id="AlJazeera.MACAN" tvg-name="Al Jazeera" tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png" group-title="Elang Perkasa-News",Al Jazeera
+http://103.30.87.238:443/ELANGTV/1sampai7/95
+#EXTINF:-1 tvg-id="BBCWorldNews.MACAN" tvg-name="BBC News" tvg-logo="https://i.ibb.co/VmrxVVv/bbc-news-home-tv.png" group-title="Elang Perkasa-News",BBC News
+http://103.30.87.238:443/ELANGTV/1sampai7/97
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg" tvg-logo="https://i.ibb.co/nBtSKNF/bloomberg-home-tv.png" group-title="Elang Perkasa-News",Bloomberg
+http://103.30.87.238:443/ELANGTV/1sampai7/403
+#EXTINF:-1 tvg-id="NHKWorldPremium.id" tvg-name="NHK World" tvg-logo="https://i.ibb.co/NCgFhsD/nhk-world-jp-home-tv.png" group-title="Elang Perkasa-News",NHK World
+http://103.30.87.238:443/ELANGTV/1sampai7/583
+#EXTINF:-1 tvg-id="ABCAustralia.id" tvg-name="ABC News" tvg-logo="https://i.ibb.co/rGQNKnx/abc-aust-home-tv.png" group-title="Elang Perkasa-News",ABC News
+http://103.30.87.238:443/ELANGTV/1sampai7/592
+#EXTINF:-1 tvg-id="5StarMaxEast.us" tvg-name="CBS Network" tvg-logo="https://i.ibb.co/K29fnrx/cbs-home-tv.png" group-title="Elang Perkasa-News",CBS Network
+http://103.30.87.238:443/ELANGTV/1sampai7/792
+#EXTINF:-1 tvg-id="DW.MACAN" tvg-name="DW English" tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="Elang Perkasa-News",DW English
+http://103.30.87.238:443/ELANGTV/1sampai7/928
+#EXTINF:-1 tvg-id="CNNInternational.id" tvg-name="CNN International" tvg-logo="https://i.ibb.co/xzjvBFZ/cnn-inter-home-tv.png" group-title="Elang Perkasa-News",CNN International
+http://103.30.87.238:443/ELANGTV/1sampai7/1187
+#EXTINF:-1 tvg-id="ChannelNewsAsia.MACAN" tvg-name="Channel News Asia" tvg-logo="https://i.ibb.co/pZsNBNx/Cna-home-tv.png" group-title="Elang Perkasa-News",Channel News Asia
+http://103.30.87.238:443/ELANGTV/1sampai7/1300
+#EXTINF:-1 tvg-id="NationalGeographicChannel.MACAN" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/WcJSHvc/natgeo-home-tv.png" group-title="Elang Perkasa-Knowledge",National Geographic
+http://103.30.87.238:443/ELANGTV/1sampai7/69
+#EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/RPpN3KG/natgeo-wild-home-tv.png" group-title="Elang Perkasa-Knowledge",Nat Geo Wild
+http://103.30.87.238:443/ELANGTV/1sampai7/71
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Asia" tvg-logo="https://i.postimg.cc/W4L4dn04/discovery-asia.png" group-title="Elang Perkasa-Knowledge",Discovery Asia
+http://103.30.87.238:443/ELANGTV/1sampai7/1296
+#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/smgGgRB/bbc-earth-home-tv.png" group-title="Elang Perkasa-Knowledge",BBC Earth
+http://103.30.87.238:443/ELANGTV/1sampai7/560
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/4jSSG3Y/history-home-tv.png" group-title="Elang Perkasa-Knowledge",History
+http://103.30.87.238:443/ELANGTV/1sampai7/66
+#EXTINF:-1 tvg-id="1602" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="Elang Perkasa-Knowledge",Smithsonian
+http://103.30.87.238:443/ELANGTV/1sampai7/63
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/kGmYFd1w/animal22.png" group-title="Elang Perkasa-Knowledge",Animal Planet
+http://103.30.87.238:443/ELANGTV/1sampai7/65
+#EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/Q9DVNPD/love-nature-home-tv.png" group-title="Elang Perkasa-Knowledge",Love Nature
+http://103.30.87.238:443/ELANGTV/1sampai7/64
+#EXTINF:-1 tvg-id="FashionTV.id" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/5jYHP9F/fashiontv-home-tv.png" group-title="Elang Perkasa-Lifestyle",Fashion TV
+http://103.30.87.238:443/ELANGTV/1sampai7/404
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFN" tvg-logo="https://i.ibb.co/vh4YJjH/afn-home-tv.png" group-title="Elang Perkasa-Lifestyle",AFN
+http://103.30.87.238:443/ELANGTV/1sampai7/905
+#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="Elang Perkasa-Lifestyle",HGTV
+http://103.30.87.238:443/ELANGTV/1sampai7/906
+#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="https://i.ibb.co/yqvjGMH/tlc-home-tv.png" group-title="Elang Perkasa-Lifestyle",TLC
+http://103.30.87.238:443/ELANGTV/1sampai7/916
+#EXTINF:-1 tvg-id="Lifetime.MACAN" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/NCJnNpC/lifetime-home-tv.png" group-title="Elang Perkasa-Lifestyle",Lifetime
+http://103.30.87.238:443/ELANGTV/1sampai7/1129
+#EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="Rock Entertainment" tvg-logo="https://i.ibb.co/Df5t6mP/blue-ant-enter-home-tv.png" group-title="Elang Perkasa-Entertainment",Rock Entertainment
+http://103.30.87.238:443/ELANGTV/1sampai7/899
+#EXTINF:-1 tvg-id="BlueAntExtreme.id" tvg-name="Rock Extreme" tvg-logo="https://i.ibb.co/hKL9phL/blue-ant-ext-home-tv.png" group-title="Elang Perkasa-Entertainment",Rock Extreme
+http://103.30.87.238:443/ELANGTV/1sampai7/333
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://i.ibb.co/n7KzQjg/s-one-home-tv.png" group-title="Elang Perkasa-Entertainment",Sony One
+http://103.30.87.238:443/ELANGTV/1sampai7/951
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="Sony GEM" tvg-logo="https://i.ibb.co/W0THBXG/s-gem-home-tv.png" group-title="Elang Perkasa-Entertainment",Sony GEM
+http://103.30.87.238:443/ELANGTV/1sampai7/984
+#EXTINF:-1 tvg-id="KPlus.id" tvg-name="K+" tvg-logo="https://i.ibb.co/VJX5J43/Kplus-home-tv.png" group-title="Elang Perkasa-Entertainment",K+
+http://103.30.87.238:443/ELANGTV/1sampai7/1287
+#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="TvN" tvg-logo="https://i.ibb.co/G9mjnYQ/tvn-home-tv.png" group-title="Elang Perkasa-Entertainment",TvN
+http://103.30.87.238:443/ELANGTV/1sampai7/708
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://i.ibb.co/MsFDnMV/kbs-world-home-tv.png" group-title="Elang Perkasa-Entertainment",KBS World
+http://103.30.87.238:443/ELANGTV/1sampai7/601
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="HITS" tvg-logo="https://i.ibb.co/5rB27Sm/hits-home-tv.png" group-title="Elang Perkasa-Entertainment",HITS
+http://103.30.87.238:443/ELANGTV/1sampai7/1004
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/LJM3WtM/axn-home-tv.png" group-title="Elang Perkasa-Entertainment",AXN
+http://103.30.87.238:443/ELANGTV/1sampai7/1278
+#EXTINF:-1 tvg-id="CrimeInvestigation.MACAN" tvg-name="Crime Investigation" tvg-logo="https://i.ibb.co/jMjWhcc/crime-investigation-home-tv.png" group-title="Elang Perkasa-ntertainment",Crime Investigation
+http://103.30.87.238:443/ELANGTV/1sampai7/1380
+#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="Waku Waku Japan" tvg-logo="https://i.ibb.co/PYP0ryn/wakuwaku-home-tv.png" group-title="Elang Perkasa-Lifestyle",Waku Waku Japan
+http://103.30.87.238:443/ELANGTV/1sampai7/1228
+#EXTINF:-1 tvg-id="DuniaLain.MACAN" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/KbF85XK/dunialain-home-tv.png" group-title="Elang Perkasa-Entertainment",Dunia Lain
+http://103.30.87.238:443/ELANGTV/1sampai7/1231
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/HGkQ2YB/mnctv-home-tv.png" group-title="Elang Perkasa-Local",MNC TV
+http://103.30.87.238:443/ELANGTV/1sampai7/858
+#EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="Inews" tvg-logo="https://i.ibb.co/KWttnf1/inews-home-tv.png" group-title="Elang Perkasa-Local",Inews
+http://103.30.87.238:443/ELANGTV/1sampai7/1419
+#EXTINF:-1 tvg-id="RTV.MACAN" tvg-name="RTV" tvg-logo="https://i.ibb.co/Qmh4NMJ/rtv-home-tv.png" group-title="Elang Perkasa-Local",RTV
+http://103.30.87.238:443/ELANGTV/1sampai7/1193
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="Elang Perkasa-Local",GTV
+http://103.30.87.238:443/ELANGTV/1sampai7/913
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Elang Perkasa-Local",SCTV
+http://103.30.87.238:443/ELANGTV/1sampai7/890
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Elang Perkasa-Local",Indosiar
+http://103.30.87.238:443/ELANGTV/1sampai7/907
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png" group-title="Elang Perkasa-Local",ANTV
+http://103.30.87.238:443/ELANGTV/1sampai7/891
+#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://i.ibb.co/tXZT0Lz/Ochannel.png" group-title="Elang Perkasa-Local",O Channel
+http://103.30.87.238:443/ELANGTV/1sampai7/1359
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KompasTV" tvg-logo="https://i.ibb.co/R3Hyxc1/kompastv-home-tv.png" group-title="Elang Perkasa-Local",KompasTV
+http://103.30.87.238:443/ELANGTV/1sampai7/809
+#EXTINF:-1 tvg-id="BeritaSatu.MACAN" tvg-name="Berita Satu" tvg-logo="https://i.ibb.co/FxD8rj8/beritasatu-home-tv.png" group-title="Elang Perkasa-Local",Berita Satu
+http://103.30.87.238:443/ELANGTV/1sampai7/570
+#EXTINF:-1 tvg-id="TVRI.MACAN" tvg-name="TVRI" tvg-logo="https://i.ibb.co/d5tmxwX/tvri-home-tv.png" group-title="Elang Perkasa-Local",TVRI
+http://103.30.87.238:443/ELANGTV/1sampai7/102
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="METROTV" tvg-logo="https://i.ibb.co/M9c0sy2/metrotv-home-tv.png" group-title="Elang Perkasa-Local",METROTV
+http://103.30.87.238:443/ELANGTV/1sampai7/32
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET TV" tvg-logo="https://i.ibb.co/mJjQDnj/nettv-home-tv.png" group-title="Elang Perkasa-Local",NET TV
+http://103.30.87.238:443/ELANGTV/1sampai7/889
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/Ptrwg6d/tvone-home-tv.png" group-title="Elang Perkasa-Local",TV ONE
+http://103.30.87.238:443/ELANGTV/1sampai7/1529
+#EXTINF:-1 tvg-id="Techstorm.MACAN" tvg-name="TechStorm" tvg-logo="https://i.imgur.com/KBxFFlY.png" group-title="Elang Perkasa-Knowledge",TechStorm
+http://103.30.87.238:443/ELANGTV/1sampai7/1574
+#EXTINF:-1 tvg-id="DaaiTv.MACAN" tvg-name="Daai TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="Elang Perkasa-Local",Daai TV
+http://103.30.87.238:443/ELANGTV/1sampai7/1618
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/220px-CGTN.png" group-title="Elang Perkasa-News",CGTN
+http://103.30.87.238:443/ELANGTV/1sampai7/1553
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/9HYjV5J/Citra-Drama-PNG.png" group-title="Elang Perkasa-Entertainment",Citra Drama
+http://103.30.87.238:443/ELANGTV/1sampai7/3286
+#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/kHv3Zfr/Discovery-Channel-logo-768x576.png" group-title="Elang Perkasa-Knowledge",Discovery Channel
+http://103.30.87.238:443/ELANGTV/1sampai7/1169
+#EXTINF:-1 tvg-id="" tvg-name="Astro Warna" tvg-logo="https://i.postimg.cc/wvw3mycL/1591197786349.png" group-title="Elang Perkasa-Variety",Astro Warna
+http://103.30.87.238:443/ELANGTV/1sampai7/3614
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ria" tvg-logo="https://i.postimg.cc/mZ6tZ9rG/1591197779083.png" group-title="Elang Perkasa-Variety",Astro Ria
+http://103.30.87.238:443/ELANGTV/1sampai7/3615
+#EXTINF:-1 tvg-id="" tvg-name="Astro Citra" tvg-logo="https://i.postimg.cc/8PX8Nx2c/ASTRO-CITRA.png" group-title="Elang Perkasa-Variety",Astro Citra
+http://103.30.87.238:443/ELANGTV/1sampai7/3616
+#EXTINF:-1 tvg-id="561" tvg-name="Astro BOO" tvg-logo="https://i.ibb.co/Rcmd6Kh/Astro-boo-home-tv.png" group-title="Elang Perkasa-Variety",Astro BOO
+http://103.30.87.238:443/ELANGTV/1sampai7/1577
+#EXTINF:-1 tvg-id="EatandGo.id" tvg-name="TV1" tvg-logo="https://i.ibb.co/2cRrXYN/Tv1-malaysia.png" group-title="Elang Perkasa-Variety",TV1
+http://103.30.87.238:443/ELANGTV/1sampai7/1990
+#EXTINF:-1 tvg-id="AstroDiscScience.my" tvg-name="DMax" tvg-logo="https://i.ibb.co/y8TG9LW/Dmax-home-tv.png" group-title="Elang Perkasa-Variety",DMax
+http://103.30.87.238:443/ELANGTV/1sampai7/1961
+#EXTINF:-1 tvg-id="" tvg-name="Break TV" tvg-logo="" group-title="Elang Perkasa-Variety",Break TV
+http://103.30.87.238:443/ELANGTV/1sampai7/1590
+#EXTINF:-1 tvg-id="164" tvg-name="TV2" tvg-logo="https://i.ibb.co/Hncn0hC/Tv2-malaysia.png" group-title="Elang Perkasa-Variety",TV2
+http://103.30.87.238:443/ELANGTV/1sampai7/1576
+#EXTINF:-1 tvg-id="" tvg-name="The Indonesian Chanel" tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="Elang Perkasa-Variety",The Indonesian Chanel
+http://103.30.87.238:443/ELANGTV/1sampai7/1559
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="Jowo Chanel" tvg-logo="" group-title="Elang Perkasa-Variety",Jowo Chanel
+http://103.30.87.238:443/ELANGTV/1sampai7/1517
+#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang" tvg-logo="https://i.ibb.co/ykm1ppp/arirang-home-tv.png" group-title="Elang Perkasa-Variety",Arirang
+http://103.30.87.238:443/ELANGTV/1sampai7/738
+#EXTINF:-1 tvg-id="" tvg-name="Anime+" tvg-logo="https://i.ibb.co/r2S2r6Y/anime-plus-home-tv.png" group-title="Elang Perkasa-Movies",Anime+
+http://103.30.87.238:443/ELANGTV/1sampai7/1151
+#EXTINF:-1 tvg-id="" tvg-name="Bolly+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjyv4dYl8ukuJNs84gyWGPbxfE9TJsFuqntqy2a7nLBPHmiHXgzIlNn885D63E3r-47sgp83kazBb5i7DDKm5Mg4zHyC5D0_V20OCyggunJt4ebDLzJf2GmCniT-Eng1RaNrbhXJPfc2VFk13-jgze1CSQRFHDRCjB0SAkIFnWLjfrPRXKiOaK9qIZH5Q=s320" group-title="Elang Perkasa-Movies",Bolly+
+http://103.30.87.238:443/ELANGTV/1sampai7/1571
+#EXTINF:-1 tvg-id="" tvg-name="Drama+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh6gl2erE9qmrRuP2oKEWcI20dp1rcQ6vdkpjG7QCbg2Ya4MkpajlOd_kBGt8uzZM0TzXcQ_42oLC1to756td1EXzqcrpOq6HYM6rHRSLqWg8_KR8yfOb0g8lP8akCsfKEKSugFxiSACletR5ZXDDj2EMQFfyb8aM9ypYioVuMj2cW-IfjpynAuKcARdA=s320" group-title="Elang Perkasa-Movies",Drama+
+http://103.30.87.238:443/ELANGTV/1sampai7/1152
+#EXTINF:-1 tvg-id="" tvg-name="Family+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgqMn3R_nBPawWxngXQf9HwXWWg_oLf4T152i0bBzx0koZRKJqGl8E5vpkC9wpOJHW-9dkDw9GUcvT2CcO1jLEj4d9-ndblepsLcq4gbNJ2Cj43ZR1tDWvCeVHy8gBrx278QG1wOYnmbRMSyt9eVYn4hj5m2gxLguC8fefF-6XMFsGC3za2FoP0Kh9IfQ=s320" group-title="Elang Perkasa-Movies",Family+
+http://103.30.87.238:443/ELANGTV/1sampai7/1361
+#EXTINF:-1 tvg-id="" tvg-name="Movie+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg8Cs2GLpMbKG7-CQmEN3FR9X_jaJwglbGSeg2126XyR12rw4uNlzwAbGX58tBMeQKA5CkTeTNpRT2xMBEsmrNIrdWhr19F6kGSAIhAOFcLAwm_G4EpajE0GSk0mSlSfR8ozQ8pjiQ6kFNX7d1APlqHa-5hn7REz-U1-dHys-FYg0oWTtFalnpLc_df1Q=s320" group-title="Elang Perkasa-Movies",Movie+
+http://103.30.87.238:443/ELANGTV/1sampai7/1144
+#EXTINF:-1 tvg-id="" tvg-name="Movie Premium+" tvg-logo="" group-title="Elang Perkasa-Movies",Movie Premium+
+http://103.30.87.238:443/ELANGTV/1sampai7/3890
+#EXTINF:-1 tvg-id="" tvg-name="Series+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgdp4TH52Hdf6ND5ej933_5PKrB7TOfgW_UoVXpO66dBridl8jzSX9hO7wPJq2siiHHDpm-COG43m1IzaainvzY_tyRTfnDVCq1fw3NXDqLsW4Yv2QD-nhLq0pm9ARjUzpH0ToCv6acz3yVKFChbxyntIG4iIRoje0bmZ3NWF7asGhle-a3qwCtqdK46Q=s320" group-title="Elang Perkasa-Movies",Series+
+http://103.30.87.238:443/ELANGTV/1sampai7/1360
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="https://i.ibb.co/zShNF6p/hbo-id-home-tv.png" group-title="Elang Perkasa-Movies",HBO
+http://103.30.87.238:443/ELANGTV/1sampai7/8
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/8P2SJM7/hbo-fam-home-tv.png" group-title="Elang Perkasa-Movies",HBO Family
+http://103.30.87.238:443/ELANGTV/1sampai7/1111
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/wMCgKGp/hbo-hits-home-tv.png" group-title="Elang Perkasa-Movies",HBO Hits
+http://103.30.87.238:443/ELANGTV/1sampai7/10
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/sbTYFCN/hob-sig-home-tv.png" group-title="Elang Perkasa-Movies",HBO Signature
+http://103.30.87.238:443/ELANGTV/1sampai7/893
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/0yJjMdB/hbo-max-home-tv.png" group-title="Elang Perkasa-Movies",Cinemax
+http://103.30.87.238:443/ELANGTV/1sampai7/1109
+#EXTINF:-1 tvg-id="mycinema.MACAN" tvg-name="My Cinema" tvg-logo="https://i.ibb.co/dgPMHc0/My-cinema-encep.png" group-title="Elang Perkasa-Movies",My Cinema
+http://103.30.87.238:443/ELANGTV/1sampai7/1375
+#EXTINF:-1 tvg-id="mycinemaasia.MACAN" tvg-name="My Cinema Asia" tvg-logo="https://i.ibb.co/G0chGsR/My-cinema-asia.png" group-title="Elang Perkasa-Movies",My Cinema Asia
+http://103.30.87.238:443/ELANGTV/1sampai7/1421
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="WarnerTV" tvg-logo="https://i.ibb.co/qrwpdB3/warner-tv-home-tv.png" group-title="Elang Perkasa-Movies",WarnerTV
+http://103.30.87.238:443/ELANGTV/1sampai7/1206
+#EXTINF:-1 tvg-id="ts506" tvg-name="&Flix" tvg-logo="https://i.ibb.co/k5QGD8v/flix-home-tv.png" group-title="Elang Perkasa-Movies",&Flix
+http://103.30.87.238:443/ELANGTV/1sampai7/1191
+#EXTINF:-1 tvg-id="ts530" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/3ppHtjj/prive-home-tv.png" group-title="Elang Perkasa-Movies",&Prive HD
+http://103.30.87.238:443/ELANGTV/1sampai7/1234
+#EXTINF:-1 tvg-id="156" tvg-name="Stars Movies" tvg-logo="https://i.ibb.co/vXzThc8/star-movies-home-tv.png" group-title="Elang Perkasa-Movies",Stars Movies
+http://103.30.87.238:443/ELANGTV/1sampai7/1266
+#EXTINF:-1 tvg-id="ts387" tvg-name="Stars Movies Select" tvg-logo="https://i.ibb.co/GpPBSDp/Star-movies-select-home-tv.png" group-title="Elang Perkasa-Movies",Stars Movies Select
+http://103.30.87.238:443/ELANGTV/1sampai7/1290
+#EXTINF:-1 tvg-id="ts32" tvg-name="Sony Pix" tvg-logo="https://i.ibb.co/VBMzR6T/Sony-pix-home-tv.png" group-title="Elang Perkasa-Movies",Sony Pix
+http://103.30.87.238:443/ELANGTV/1sampai7/1289
+#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movie" tvg-logo="https://i.ibb.co/MDGtQL6/Star-chinese-movie-home-tv.png" group-title="Elang Perkasa-Movies",Star Chinese Movie
+http://103.30.87.238:443/ELANGTV/1sampai7/1342
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/C7tHQXY/celestial-movies-home-tv.png" group-title="Elang Perkasa-Movies",Celestial Movies
+http://103.30.87.238:443/ELANGTV/1sampai7/42
+#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/M7HjR3n/ccm-home-tv.png" group-title="Elang Perkasa-Movies",CCM
+http://103.30.87.238:443/ELANGTV/1sampai7/1364
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/Lx5mh6X/thrill-home-tv.png" group-title="Elang Perkasa-Movies",Thrill
+http://103.30.87.238:443/ELANGTV/1sampai7/1219
+#EXTINF:-1 tvg-id="ZeeTV.MACAN" tvg-name="Zee Bioskop" tvg-logo="https://i.ibb.co/PCVMHHS/zee-bioskop-home-tv.png" group-title="Elang Perkasa-Movies",Zee Bioskop
+http://103.30.87.238:443/ELANGTV/1sampai7/1125
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="TvN Movies" tvg-logo="https://i.ibb.co/fHfhMfn/tvn-movies-home-tv.png" group-title="Elang Perkasa-Movies",TvN Movies
+http://103.30.87.238:443/ELANGTV/1sampai7/1221
+#EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="Elang Perkasa-Movies",KIX
+http://103.30.87.238:443/ELANGTV/1sampai7/1567
+#EXTINF:-1 tvg-id="Galaxy.MACAN" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/P4VzF0H/galaxy-home-tv.png" group-title="Elang Perkasa-Movies",Galaxy
+http://103.30.87.238:443/ELANGTV/1sampai7/1281
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/7gw38Pq/galaxy-premium-home-tv.png" group-title="Elang Perkasa-Movies",Galaxy Premium
+http://103.30.87.238:443/ELANGTV/1sampai7/1282
+#EXTINF:-1 tvg-id="CinemaWorld.MACAN" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/q9ZwqcN/cinemaworld-home-tv.png" group-title="Elang Perkasa-Movies",Cinema World
+http://103.30.87.238:443/ELANGTV/1sampai7/1291
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="Hits Movies" tvg-logo="https://i.ibb.co/T4CMHky/Hits-movies-home-tv.png" group-title="Elang Perkasa-Movies",Hits Movies
+http://103.30.87.238:443/ELANGTV/1sampai7/1292
+#EXTINF:-1 tvg-id="&Flix HD" tvg-name="Flik" tvg-logo="https://i.ibb.co/C0bR1P3/flik-home-tv.png" group-title="Elang Perkasa-Movies",Flik
+http://103.30.87.238:443/ELANGTV/1sampai7/1213
+#EXTINF:-1 tvg-id="IMC.MACAN" tvg-name="IMC" tvg-logo="https://i.ibb.co/Wzpq2h7/imc-home-tv.png" group-title="Elang Perkasa-Movies",IMC
+http://103.30.87.238:443/ELANGTV/1sampai7/1214
+#EXTINF:-1 tvg-id="BioskopIndonesia.MACAN" tvg-name="Bioskop Indonesia" tvg-logo="https://i.ibb.co/KW62PjG/bioskop-id-home-tv.png" group-title="Elang Perkasa-Movies",Bioskop Indonesia
+http://103.30.87.238:443/ELANGTV/1sampai7/1223
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/6JGP61f/aniplus-home-tv.png" group-title="Elang Perkasa-Kids",Aniplus
+http://103.30.87.238:443/ELANGTV/1sampai7/910
+#EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="https://i.ibb.co/ZJGKFy9/animax-home-tv.png" group-title="Elang Perkasa-Kids",Animax
+http://103.30.87.238:443/ELANGTV/1sampai7/929
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/y0Jk7CQ/boomerang-home-tv.png" group-title="Elang Perkasa-Kids",Boomerang
+http://103.30.87.238:443/ELANGTV/1sampai7/1277
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/pZ0xjt7/cartoon-network-home-tv.png" group-title="Elang Perkasa-Kids",Cartoon Network
+http://103.30.87.238:443/ELANGTV/1sampai7/1189
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/DkrTfsd/nickeledeon-home-tv.png" group-title="Elang Perkasa-Kids",Nickelodeon
+http://103.30.87.238:443/ELANGTV/1sampai7/991
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://i.ibb.co/6Dvdcw7/babyfirst-home-tv.png" group-title="Elang Perkasa-Kids",Baby First
+http://103.30.87.238:443/ELANGTV/1sampai7/1383
+#EXTINF:-1 tvg-id="DuniaAnak.MACAN" tvg-name="Dunia Anak" tvg-logo="https://i.ibb.co/SvDTY8C/dunia-anak-home-tv.png" group-title="Elang Perkasa-Kids",Dunia Anak
+http://103.30.87.238:443/ELANGTV/1sampai7/1384
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Junior" tvg-logo="https://i.ibb.co/3fXsgzp/nickjr-home-tv.png" group-title="Elang Perkasa-Kids",Nick Junior
+http://103.30.87.238:443/ELANGTV/1sampai7/1385
+#EXTINF:-1 tvg-id="Dreamworks.MACAN" tvg-name="BeSmart" tvg-logo="https://i.ibb.co/4g734bd/besmart-home-tv.png" group-title="Elang Perkasa-Kids",BeSmart
+http://103.30.87.238:443/ELANGTV/1sampai7/1386
+#EXTINF:-1 tvg-id="Zoomoo.id" tvg-name="Zoomoo" tvg-logo="https://i.ibb.co/n3Bdy69/zoomoo-home-tv.png" group-title="Elang Perkasa-Kids",Zoomoo
+http://103.30.87.238:443/ELANGTV/1sampai7/1387
+#EXTINF:-1 tvg-id="" tvg-name="KidsTV" tvg-logo="https://i0.wp.com/lh3.googleusercontent.com/C_jE0MSAHY96irfNDYtjHmBlxgdTWYjFMuI5LbQrMKb7sELhh50CIBxWGyawfrs8Ig=h220" group-title="Elang Perkasa-Kids",KidsTV
+http://103.30.87.238:443/ELANGTV/1sampai7/3285
+#EXTINF:-1 tvg-id="MTVLive.nl" tvg-name="MTV" tvg-logo="https://i.ibb.co/wYVcWRh/mtv-home-tv.png" group-title="Elang Perkasa-Music",MTV
+http://103.30.87.238:443/ELANGTV/1sampai7/1005
+#EXTINF:-1 tvg-id="" tvg-name="Melody" tvg-logo="" group-title="Elang Perkasa-Music",Melody
+http://103.30.87.238:443/ELANGTV/1sampai7/1153
+#EXTINF:-1 tvg-id="myfamilychannel.MACAN" tvg-name="T Music" tvg-logo="" group-title="Elang Perkasa-Music",T Music
+http://103.30.87.238:443/ELANGTV/1sampai7/1195
+#EXTINF:-1 tvg-id="" tvg-name="Country Network" tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="Elang Perkasa-Music",Country Network
+http://103.30.87.238:443/ELANGTV/1sampai7/1200
+#EXTINF:-1 tvg-id="" tvg-name="Pop Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShLhiaq_qKJnVjmogg7QWaHm1cOyXpuo8Y2A&usqp=CAU" group-title="Elang Perkasa-Music",Pop Musik
+http://103.30.87.238:443/ELANGTV/1sampai7/1201
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-name="Musik+" tvg-logo="https://i.ibb.co/ZcYj6Tw/musictv-home-tv.png" group-title="Elang Perkasa-Music",Musik+
+http://103.30.87.238:443/ELANGTV/1sampai7/1202
+#EXTINF:-1 tvg-id="" tvg-name="Classic" tvg-logo="https://i.imgur.com/2gXSIbO.png" group-title="Elang Perkasa-Music",Classic
+http://103.30.87.238:443/ELANGTV/1sampai7/3298
+#EXTINF:-1 tvg-id="" tvg-name="Metal TV" tvg-logo="" group-title="Elang Perkasa-Music",Metal TV
+http://103.30.87.238:443/ELANGTV/1sampai7/3486
+#EXTINF:-1 tvg-id="NBCGolf.MACAN" tvg-name="Golf TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="Elang Perkasa-Sport",Golf TV
+http://103.30.87.238:443/ELANGTV/1sampai7/100
+#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/qd0RNHt/nba-home-tv.png" group-title="Elang Perkasa-Sport",NBA TV
+http://103.30.87.238:443/ELANGTV/1sampai7/901
+#EXTINF:-1 tvg-id="FightSports.MACAN" tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/vPhWkqr/fight-sports-home-tv.png" group-title="Elang Perkasa-Sport",Fight Sport
+http://103.30.87.238:443/ELANGTV/1sampai7/1128
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="Elang Perkasa-Sport",SPOTV
+http://103.30.87.238:443/ELANGTV/1sampai7/1355
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/CQnMW0Q/Wwe-encep.png" group-title="Elang Perkasa-Sport",WWE
+http://103.30.87.238:443/ELANGTV/1sampai7/1374
+#EXTINF:-1 tvg-id="beinMaxMY.MACAN" tvg-name="Soccer Chanel" tvg-logo="https://www.dropbox.com/s/tq0fu3ur3c04hkb/soccerchannel.png" group-title="Elang Perkasa-Sport",Soccer Chanel
+http://103.30.87.238:443/ELANGTV/1sampai7/1378
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="Elang Perkasa-Sport",TVRI Sport
+http://103.30.87.238:443/ELANGTV/1sampai7/1557
+#EXTINF:-1 tvg-id="" tvg-name="MotorSport" tvg-logo="http://tvmalaysia.cc:80/images/37f395b028a84d01a369dcf992acf533.png" group-title="Elang Perkasa-Sport",MotorSport
+http://103.30.87.238:443/ELANGTV/1sampai7/3284
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/YdQYP1R/bt-sport-home-tv.png" group-title="Elang Perkasa-Sport",BT Sport 1
+http://103.30.87.238:443/ELANGTV/1sampai7/1102
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/YdQYP1R/bt-sport-home-tv.png" group-title="Elang Perkasa-Sport",BT Sport 2
+http://103.30.87.238:443/ELANGTV/1sampai7/1083
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3" tvg-logo="https://i.ibb.co/YdQYP1R/bt-sport-home-tv.png" group-title="Elang Perkasa-Sport",BT Sport 3
+http://103.30.87.238:443/ELANGTV/1sampai7/1065
+#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="Bein Sport" tvg-logo="https://i.ibb.co/b352L2b/bein1-home-tv.png" group-title="Elang Perkasa-Sport",Bein Sport
+http://103.30.87.238:443/ELANGTV/1sampai7/902
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sport 3" tvg-logo="https://i.ibb.co/ZmVKJ7Z/Bein-id3.png" group-title="Elang Perkasa-Sport",Bein Sport 3
+http://103.30.87.238:443/ELANGTV/1sampai7/1081
+#EXTINF:-1 tvg-id="" tvg-name="Sport+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEguZSpJQhiVNx1VY8zvB8Kw3CUUywU4w8Ra5LP8x2cYpGbObeSBNzEYIwgYvYijSgihxuqHe7yks21QICxU_Nn_rUPU87aESNUh2YSoy1qeEjdcsbLbQ5Tshs5iM5UjVx7oD6nRyqbotewAHVaOwH3bYj9tMY062cNqxYvx9H4CPh4xplFWgbX8dBl02A=s320" group-title="Elang Perkasa-Sport",Sport+
+http://103.30.87.238:443/ELANGTV/1sampai7/1274
+#EXTINF:-1 tvg-id="" tvg-name="Sport+ 2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj1CbY-lTIQgnR1ITdTgz_PYR-KhSark8Od6e6rnL28UndfXlYv7xyeUhLkKzo7YXy0RVhLtCRz-m_PGXR5FRRr3NUWrVPy-8qEV-5NYWshqlxaAVWe-rkUzg4gL9dHEuAJ84efv4k16aab6D1IAAEPECz2v-fs8xjY-mB2LkSRLkVF1kmHXnuMS4Tqhg=s320" group-title="Elang Perkasa-Sport",Sport+ 2
+http://103.30.87.238:443/ELANGTV/1sampai7/1337
+#EXTINF:-1 tvg-id="" tvg-name="Sport+ 3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhHlW8bYBKO3a_uNCIiPlNmaolkkXwHRMFjNJP_Y8dhvRrfo7C7Iz_Rt2jbqHQQY4340VRmMQRNY8ZI1aj63LgB70I31NmYerI46hILlaU3XeRNc1mfBoHg-OcYNmzJAJextRZsOX-mpyS9MhTCrHtzPIYcXnGX17SkkUv5Lva5H6kocqGI4yzfYsEa6g=s320" group-title="Elang Perkasa-Sport",Sport+ 3
+http://103.30.87.238:443/ELANGTV/1sampai7/1448
+#EXTINF:-1 tvg-id="" tvg-name="Sport+ 4" tvg-logo="" group-title="Elang Perkasa-Sport",Sport+ 4
+http://103.30.87.238:443/ELANGTV/1sampai7/3775
+#EXTINF:-1 tvg-id="UseeSports.MACAN" tvg-name="Usee Sport1" tvg-logo="https://i.ibb.co/L58cPjk/Usee-sports1-encep.png" group-title="Elang Perkasa-Sport",Usee Sport1
+http://103.30.87.238:443/ELANGTV/1sampai7/1376
+#EXTINF:-1 tvg-id="UseeSports2.MACAN" tvg-name="Usee Sport2" tvg-logo="https://i.ibb.co/G7kR4jV/Usee-sports2-encep.png" group-title="Elang Perkasa-Sport",Usee Sport2
+http://103.30.87.238:443/ELANGTV/1sampai7/1377
+#EXTINF:-1 tvg-id="Arena" tvg-name="Astro Arena" tvg-logo="https://i.ibb.co/rbtX26N/Astro-arena-home-tv.png" group-title="Elang Perkasa-Sport",Astro Arena
+http://103.30.87.238:443/ELANGTV/1sampai7/1346
+#EXTINF:-1 tvg-id="Thangathirai" tvg-name="Astro Arena 2" tvg-logo="https://i.ibb.co/WVwSv3S/Astro-arena2-encep.png" group-title="Elang Perkasa-Sport",Astro Arena 2
+http://103.30.87.238:443/ELANGTV/1sampai7/1379
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro SuperSport 1" tvg-logo="https://i.ibb.co/KxnvzLS/Assp1.png" group-title="Elang Perkasa-Sport",Astro SuperSport 1
+http://103.30.87.238:443/ELANGTV/1sampai7/1091
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://i.ibb.co/FzRBBmc/Assp2.png" group-title="Elang Perkasa-Sport",Astro SuperSport 2
+http://103.30.87.238:443/ELANGTV/1sampai7/1092
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://i.ibb.co/rs9tWYY/Assp3.png" group-title="Elang Perkasa-Sport",Astro SuperSport 3
+http://103.30.87.238:443/ELANGTV/1sampai7/1096
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.ibb.co/64Bvwh4/Assp4.png" group-title="Elang Perkasa-Sport",Astro SuperSport 4
+http://103.30.87.238:443/ELANGTV/1sampai7/1135
+#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersport 5" tvg-logo="https://i.ibb.co/NF7QV9f/Assp5-home-tv.png" group-title="Elang Perkasa-Sport",Astro Supersport 5
+http://103.30.87.238:443/ELANGTV/1sampai7/1365
+#EXTINF:-1 tvg-id="RodjaTV.MACAN" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/m5TzKYB/rodjatv-home-tv.png" group-title="Elang Perkasa-Religi",Rodja TV
+http://103.30.87.238:443/ELANGTV/1sampai7/180
+#EXTINF:-1 tvg-id="Reformed21TV.id" tvg-name="Reformed 21" tvg-logo="https://i.ibb.co/yWyyXPB/reformed-home-tv.png" group-title="Elang Perkasa-Religi",Reformed 21
+http://103.30.87.238:443/ELANGTV/1sampai7/571
+#EXTINF:-1 tvg-id="AlQuranAlKareem.MACAN" tvg-name="Makkah TV" tvg-logo="https://i.ibb.co/TPH12f8/alquran-alkareem-home-tv.png" group-title="Elang Perkasa-Religi",Makkah TV
+http://103.30.87.238:443/ELANGTV/1sampai7/586
+#EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://i.ibb.co/XWP6xdz/mqtv-home-tv.png" group-title="Elang Perkasa-Religi",MQTV
+http://103.30.87.238:443/ELANGTV/1sampai7/1140
+#EXTINF:-1 tvg-id="" tvg-name="Al Hijrah" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/alhijrah.png" group-title="Elang Perkasa-Religi",Al Hijrah
+http://103.30.87.238:443/ELANGTV/1sampai7/3145
+#EXTINF:-1 tvg-id="" tvg-name="Al Bahjah" tvg-logo="https://i.postimg.cc/V6KzVFBc/AL-BAHJAH.png" group-title="Elang Perkasa-Religi",Al Bahjah
+http://103.30.87.238:443/ELANGTV/1sampai7/3478
