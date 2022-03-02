@@ -5,6 +5,8 @@
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="Elang Perkasa-Lokal", RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png"group-title="Elang Perkasa-Lokal",ANTV
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV (FTA)" tvg-logo="https://www.dropbox.com/s/aum1wh3uhiki7jk/kisspng-mnctv-internet-television-media-nusantara-citra-group-5ab9dbcc7a3020.9213620915221298685005.png?dl=1" group-title="Elang Perkasa-Lokal",MNC TV (FTA)
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Elang Perkasa-Lokal",Berita Satu
@@ -43,7 +45,7 @@ http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/
 
 <----------------------------------- Knowledge Channel --------------------------------------->
 
-#EXTINF:-1 tvg-id="Smithsonian.id" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="Elang Perkasa-Knowledge=",Smithsonian
+#EXTINF:-1 tvg-id="Smithsonian.id" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="Elang Perkasa-Knowledge",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/Q9DVNPD/love-nature-home-tv.png" group-title="Elang Perkasa-Knowledge",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
@@ -80,72 +82,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-47
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UseePrime (MAXSTREAM)" tvg-logo="" group-title="Elang Perkasa-Lokal",UseePrime 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-#EXTINF:-1 group-title="Elang Perkasa-Movie", AXN
-https://Lnk.ec/AXN?shareext.ts
-#EXTINF:-1 group-title="Elang Perkasa-Movie", AXN BACKUP
-http://139.99.71.104:8888/live/blink6/yOttch0ZLF/9.ts
-#EXTINF:-1 group-title="Elang Perkasa-Movie", CELESTIAL
-https://Lnk.ec/celestialMovie?shareext.ts
-#EXTINF:-1 group-title="Elang Perkasa-Movie", CINEMAX
-http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/087
-#EXTINF:-1 group-title="Elang Perkasa-Movie", CINEMAX BACKUP
-https://Lnk.ec/cinemaxID?shareext.ts
-#EXTINF:-1 group-title="Elang Perkasa-Movie", FAILARMY
-https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Elang Perkasa-Movie", Fashion TV MIDNIGHT
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="Elang Perkasa-Movie", Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Elang Perkasa-Movie", Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Elang Perkasa-Movie", GALAXY PREMIUM
-http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/109
-#EXTINF:-1 group-title="Elang Perkasa-Movie", HBO
-https://dik.si/hbosyarman
-#EXTINF:-1 group-title="Elang Perkasa-Movie", HBO Backup
-https://Lnk.ec/hboID?shareext.ts
-#EXTINF:-1 group-title="Elang Perkasa-Movie", HBO Family
-https://dik.si/hbofamsyarman
-#EXTINF:-1 group-title="Elang Perkasa-Movie", HBO Family Backup
-https://Lnk.ec/hboFamID?shareext.ts
-#EXTINF:-1 group-title="Elang Perkasa-Movie", HBO Hits
-https://dik.si/hbohitsyarman
-#EXTINF:-1 group-title="Elang Perkasa-Movie", HBO Hits Backup
-https://Lnk.ec/hboHitsID?shareext.ts
-#EXTINF:-1 group-title="Elang Perkasa-Movie", HBO Signature
-https://dik.si/hbosigsyarman
-#EXTINF:-1 group-title="Elang Perkasa-Movie", HBO Signature Backup
-https://Lnk.ec/hboSigID?shareext.ts
-#EXTINF:-1 group-title="Elang Perkasa-Movie", LOCAL MOVIE 90'S
-https://goldenlivektv.com/Live_TV/Channel_Local-now-movie_of-the-90's.m3u8
-#EXTINF:-1 group-title="Elang Perkasa-Movie", MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 group-title="Elang Perkasa-Movie", MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 group-title="Elang Perkasa-Movie", MTV Spankin New
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:-1 group-title="Elang Perkasa-Movie", MTV WMA
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 group-title="Elang Perkasa-Movie", MTV Yo
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1 group-title="Elang Perkasa-Movie", WAKU WAKU
-https://Lnk.ec/waku2?shareext.ts
 
 
 <----------------------------------- Sport Channel --------------------------------------->
 
 #EXTINF:-1 group-title="Elang Perkasa-Sport", TVRI World
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Elang Perkasa-Sport", ASTRO ARENA
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6707
-#EXTINF:-1 group-title="Elang Perkasa-Sport", Astro SuperSport HD
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6708
-#EXTINF:-1 group-title="Elang Perkasa-Sport", Astro SuperSport 2 HD
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6710
-#EXTINF:-1 group-title="Elang Perkasa-Sport", Astro SuperSport 3 HD
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6711
-#EXTINF:-1 group-title="Elang Perkasa-Sport", Astro SuperSport 4 HD
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6712
 #EXTINF:-1 group-title="Elang Perkasa-Sport", ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Elang Perkasa-Sport", ABU DHABI SPORTS 2
@@ -172,7 +114,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 #EXTINF:-1 group-title="Elang Perkasa-Sport", IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="Elang Perkasa-SportT", Red Bull TV
+#EXTINF:-1 group-title="Elang Perkasa-Sport", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="Elang Perkasa-Sport", STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
@@ -186,5 +128,27 @@ http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 group-title="Elang Perkasa-Sport", TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium 1" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Elang Perkasa-Sport",Bein Sport Premium 1
+http://red.ipfox.org:8080/1234/12345678/31498
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium 2" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="Elang Perkasa-Sport",Bein Sport Premium 2
+http://red.ipfox.org:8080/1234/12345678/31497
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium 3" tvg-logo="https://www.firekora.com/wp-content/uploads/2021/03/3-2Bpremium.png" group-title="Elang Perkasa-Sport",Bein Sport Premium 3
+http://red.ipfox.org:8080/1234/12345678/31496
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Elang Perkasa-Sport",Bein Sport 1
+http://red.ipfox.org:8080/1234/12345678/31493
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Elang Perkasa-Sport",Bein Sport 2
+http://red.ipfox.org:8080/1234/12345678/31492
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/1200px-Logo_beIN_SPORTS_3.png" group-title="Elang Perkasa-Sport",Bein Sport 3
+http://red.ipfox.org:8080/1234/12345678/31491
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="Elang Perkasa-Sport",Bein Sport 4
+http://red.ipfox.org:8080/1234/12345678/31490
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 5" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="Elang Perkasa-Sport",Bein Sport 5
+http://red.ipfox.org:8080/1234/12345678/31489
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 6" tvg-logo="https://i.pinimg.com/originals/35/7f/31/357f311ea4ad556e3ada5e646f699a77.png" group-title="Elang Perkasa-Sport",Bein Sport 6
+http://red.ipfox.org:8080/1234/12345678/31488
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F207%2Fbein-sports-hd-1.png" group-title="Elang Perkasa-Sport",Bein Sport 7
+http://red.ipfox.org:8080/1234/12345678/31487
+EXTINF:-1 tvg-id="" tvg-name="UA UKRAINE" tvg-logo="https://live-ua-tv.cosmonova.net.ua/images/offline-images/stub_ua.png" group-title="Elang Perkasa-News",UA UKRAINE 
+https://ua-tv.cdn-02.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 
 
