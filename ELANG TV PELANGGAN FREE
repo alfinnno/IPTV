@@ -19,6 +19,10 @@ https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_hls/index.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="https://www.dropbox.com/s/3b8svah8zll12qr/kisspng-trans7-television-in-indonesia-television-in-indon-news-anchor-on-tv-breaking-news-5b498f32577173.1353364015315474423582.png?dl=1" group-title="Elang Perkasa-Lokal",Trans 7 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1408254284_b544100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="INDONESIA",TRANS TV
+http://rr2.dens.tv/s/s05/index.m3u8
+http://nonton.wap.sh/id/003.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Elang Perkasa-Lokal",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Net HD" tvg-logo="" group-title="Elang Perkasa-Lokal",Net HD
@@ -57,7 +61,48 @@ http://vdbrt.kazaktelekom.com/iptv/XSL5UCASMW32CP/216/index.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 
+
+<----------------------------------- News Channel --------------------------------------->
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", CCTV4
+http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", FRANCE 24
+http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", DW
+http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", NHK WORLD JAPAN
+http://210.210.155.35:80/uq2663/h/h23/01.m3u8
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", UA
+http://rr.dens.tv/h/h101/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="BERITA",INEWS
+https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/index.m3u8
+https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
+https://cdn-livetv-studio.metube.id/inewstv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvR9qRGp/MNC-NEWS.png" group-title="BERITA",MNC News
+#EXTINF:-1  tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="BERITA",Berita Satu 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X2LRcJv/CNN.png" group-title="BERITA",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="BERITA",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="BERITA",Berita Satu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3-us-east-2.amazonaws.com/indotrainee/live/logo/company/56/1526461708-46-56.png" group-title="BERITA",Jakarta Globe News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-country="AU" tvg-url="" group-title="BERITA",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-country="AU" tvg-url="" group-title="BERITA",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-country="AU" tvg-url="" group-title="BERITA",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" tvg-country="AU" tvg-url="" group-title="BERITA",Bloomberg TV Australia
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+
+
 <----------------------------------- Movie Channel --------------------------------------->
+
 #EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="http://kamiselaluada.com/img/thrill.png" group-title="Elang Perkasa-Movie",Thrill
 http://210.210.155.35/session/3a76e7fe-5fd9-11ec-8642-c81f66f89318/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE Bioskop" tvg-logo="http://kamiselaluada.com/img/zeebioskop.png" group-title="Elang Perkasa-Movie",ZEE Bioskop
@@ -82,7 +127,43 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-47
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UseePrime (MAXSTREAM)" tvg-logo="" group-title="Elang Perkasa-Lokal",UseePrime 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", AXN
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", KIX
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", BLUE ANT ENTERTAINMENT
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", BLUE ANT EXTREME 
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", K+ 
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", SONY GEM TV 
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", SONY ONE 
+http://210.210.155.35:80/uq2663/h/h143/01.m3u8 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", CINEMA WORLD 
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", CELESTIAL MOVIES 
+http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", ZEE BIOSKOP 
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", THRILL 
+http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", TV5 MONDE
+http://210.210.155.35:80/uq2663/h/h01/01.m3u8
 
+
+<----------------------------------- Kids Channel --------------------------------------->
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1200px-Nicktoons_Network_logo_2009.svg.png" group-title="KIDS",Nick Toons
+https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="KIDS",NICK JR
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+http://160.119.77.50/iptv/uk-nickjr.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fDQxnKx/KGH.png" group-title="KIDS",NICKELODEON
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 
 <----------------------------------- Sport Channel --------------------------------------->
 
@@ -129,26 +210,26 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 group-title="Elang Perkasa-Sport", TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium 1" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Elang Perkasa-Sport",Bein Sport Premium 1
-http://red.ipfox.org:8080/1234/12345678/31498
+http://red.ipfox.org:8080/1234/12345678/31529
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium 2" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="Elang Perkasa-Sport",Bein Sport Premium 2
-http://red.ipfox.org:8080/1234/12345678/31497
+http://red.ipfox.org:8080/1234/12345678/31528
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium 3" tvg-logo="https://www.firekora.com/wp-content/uploads/2021/03/3-2Bpremium.png" group-title="Elang Perkasa-Sport",Bein Sport Premium 3
 http://red.ipfox.org:8080/1234/12345678/31496
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Elang Perkasa-Sport",Bein Sport 1
-http://red.ipfox.org:8080/1234/12345678/31493
+http://red.ipfox.org:8080/1234/12345678/31536
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Elang Perkasa-Sport",Bein Sport 2
-http://red.ipfox.org:8080/1234/12345678/31492
+http://red.ipfox.org:8080/1234/12345678/31535
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/1200px-Logo_beIN_SPORTS_3.png" group-title="Elang Perkasa-Sport",Bein Sport 3
-http://red.ipfox.org:8080/1234/12345678/31491
+http://red.ipfox.org:8080/1234/12345678/31534
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="Elang Perkasa-Sport",Bein Sport 4
-http://red.ipfox.org:8080/1234/12345678/31490
+http://red.ipfox.org:8080/1234/12345678/31533
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 5" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="Elang Perkasa-Sport",Bein Sport 5
-http://red.ipfox.org:8080/1234/12345678/31489
+http://red.ipfox.org:8080/1234/12345678/31532
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 6" tvg-logo="https://i.pinimg.com/originals/35/7f/31/357f311ea4ad556e3ada5e646f699a77.png" group-title="Elang Perkasa-Sport",Bein Sport 6
-http://red.ipfox.org:8080/1234/12345678/31488
+http://red.ipfox.org:8080/1234/12345678/31531
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F207%2Fbein-sports-hd-1.png" group-title="Elang Perkasa-Sport",Bein Sport 7
-http://red.ipfox.org:8080/1234/12345678/31487
-EXTINF:-1 tvg-id="" tvg-name="UA UKRAINE" tvg-logo="https://live-ua-tv.cosmonova.net.ua/images/offline-images/stub_ua.png" group-title="Elang Perkasa-News",UA UKRAINE 
-https://ua-tv.cdn-02.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+http://red.ipfox.org:8080/1234/12345678/31530
+EXTINF:-1 tvg-id="" tvg-name="UESPN 2" tvg-logo="https://www.pngitem.com/pimgs/m/556-5567132_espn-2-logo-png-transparent-png.png" group-title="Elang Perkasa-Spor",ESPN 2
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 
