@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/media/FMP35HaUcAAqxCv?format=png&name=small",ELANG PERKASA
+https://video.twimg.com/ext_tw_video/1497513444076969986/pu/vid/1280x720/fTr8JL0XabFWWuzJ.mp4?tag=12
+
+
+#EXTM3U
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/w1200-h630-p-k-no-nu/Trans%2BTV.png" group-title="Elang Perkasa-Local",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Elang Perkasa-Local",TRANS 7
