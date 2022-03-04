@@ -135,11 +135,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-43
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/AXN_(India)/AXN_(India)-Logo.wine.png" group-title="Elang Perkasa-Movie", AXN
 http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/380-3809575_seeking-music-for-hbo-hbo-logo-high-res.png" group-title="Elang Perkasa-Movie", HBO
-http://139.99.27.33:9998/hbohd/tracks-v1a1/mono.m3u8?token=32544367c3a3079297aa2295fc702c9c321118f8-87866b40ee62567483ff4f906cf0fde3-1646377520-1646366720
-#EXTINF:-1 tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x821.png" group-title="Elang Perkasa-Movie", HBO HITS
-http://139.99.27.33:9998/hboh/tracks-v1a1/mono.m3u8?token=5b97e9592a875015a097a54ecc20850184aa2647-95c377f141d7dd129e9a4443c2386bd9-1646377228-1646366428
+http://xpro.xviptv.com:25443/V548FD4fgK9e/8QzsKFtVTd/125422
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Elang Perkasa-Movie", HBO SIGNATURE
+http://xpro.xviptv.com:25443/V548FD4fgK9e/8QzsKFtVTd/125424
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/0-2471_hbo-family-logo-png.png" group-title="Elang Perkasa-Movie", HBO FAMILY
-http://139.99.27.33:9998/hbof/tracks-v1a1/mono.m3u8?token=da09228f78cafe6823c3179a3d09a1e0ce5d1da8-f64275108a5ba99a99fe52e8c90b1e86-1646377832-1646367032
+http://xpro.xviptv.com:25443/V548FD4fgK9e/8QzsKFtVTd/125421
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545267641_kix-sd.jpg" group-title="Elang Perkasa-Movie", KIX
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/801/3927801-middle.png" group-title="Elang Perkasa-Movie", BLUE ANT ENTERTAINMENT
