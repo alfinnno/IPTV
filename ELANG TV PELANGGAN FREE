@@ -291,5 +291,5 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansr.m3u8
 https://pelindung.bandung.go.id:3443/video/DAHUA/CIMD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDG-BEC" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-BEC
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/PurnawarmanBEC.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="UKRAINA" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",UKRAINA
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/24111/2022/02/24/0400.mp4/chunklist_w330196640.m3u8
