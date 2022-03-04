@@ -302,15 +302,15 @@ http://103.30.87.238:443/elangperkasa/1Sampai7/3285
 http://103.30.87.238:443/elangperkasa/1Sampai7/3286
 #EXTINF:-1 tvg-id="" tvg-name="Melody" tvg-logo="" group-title="Elang Perkasa-Music",Melody
 http://103.30.87.238:443/elangperkasa/1Sampai7/1153
-#EXTINF:-1 tvg-id="" tvg-name="Cibeureum - Bandung" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",Cibeureum - Bandung
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Cibeureum - Bandung" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Cibeureum - Bandung
 http://103.30.87.238:443/elangperkasa/1Sampai7/3287
-#EXTINF:-1 tvg-id="" tvg-name="CCTV YOGYAKARTA - Simpang Tugu" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",CCTV YOGYAKARTA - Simpang Tugu
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-Simpang Tugu" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",JOGJA-Simpang Tugu
 http://103.30.87.238:443/elangperkasa/1Sampai7/1402
-#EXTINF:-1 tvg-id="" tvg-name="Simpang Lima, Asia Afrika - Bandung" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",Simpang Lima, Asia Afrika - Bandung
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Simpang Lima, Asia Afrika - Bandung" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Simpang Lima, Asia Afrika - Bandung
 http://103.30.87.238:443/elangperkasa/1Sampai7/3288
-#EXTINF:-1 tvg-id="" tvg-name="Pasteur - Bandung" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",Pasteur - Bandung
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Pasteur - Bandung" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Pasteur - Bandung
 http://103.30.87.238:443/elangperkasa/1Sampai77/3289
-#EXTINF:-1 tvg-id="" tvg-name="Buah Batu - Bandung" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",Buah Batu - Bandung
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Buah Batu - Bandung" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Buah Batu - Bandung
 http://103.30.87.238:443/elangperkasa/1Sampai7/3290
 #EXTINF:-1 tvg-id="" tvg-name="Classic" tvg-logo="https://i.imgur.com/2gXSIbO.png" group-title="Elang Perkasa-Music",Classic
 http://103.30.87.238:443/elangperkasa/1Sampai7/3298
@@ -320,7 +320,7 @@ http://103.30.87.238:443/elangperkasa/1Sampai7/1342
 http://103.30.87.238:443/elangperkasa/1Sampai7/3478
 #EXTINF:-1 tvg-id="" tvg-name="Metal TV" tvg-logo="" group-title="Elang Perkasa-Music",Metal TV
 http://103.30.87.238:443/elangperkasa/1Sampai7/3486
-#EXTINF:-1 tvg-id="" tvg-name="Gunung Merapi" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",Gunung Merapi
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-Gunung Merapi" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",JOGJA-Gunung Merapi
 http://103.30.87.238:443/elangperkasa/1Sampai7/1564
 #EXTINF:-1 tvg-id="" tvg-name="Astro Warna" tvg-logo="https://i.postimg.cc/wvw3mycL/1591197786349.png" group-title="Elang Perkasa-Variety",Astro Warna
 http://103.30.87.238:443/elangperkasa/1Sampai7/3614
@@ -332,13 +332,13 @@ http://103.30.87.238:443/elangperkasa/1Sampai7/3616
 http://103.30.87.238:443/elangperkasa/1Sampai7/1169
 #EXTINF:-1 tvg-id="" tvg-name="Sport+ 4" tvg-logo="" group-title="Elang Perkasa-Sport",Sport+ 4
 http://103.30.87.238:443/elangperkasa/1Sampai7/3775
-#EXTINF:-1 tvg-id="" tvg-name="Supratman" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",Supratman
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Supratman" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Supratman
 http://45.118.114.26/camera/Supratman.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SP Batununggal" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",SP Batununggal
 http://45.118.114.26/camera/Batununggal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP Gardujati" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",SP Gardujati
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Gardujati" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Gardujati
 http://45.118.114.26/camera/Gardujati.m3u8
-EXTINF:-1 tvg-id="" tvg-name="SP Pasteur" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",SP Pasteur
+EXTINF:-1 tvg-id="" tvg-name="BDG-Pasteur" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Pasteur
 http://45.118.114.26/camera/Pasteur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium 1" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Elang Perkasa-Sport",Bein Sport Premium 1
 http://red.ipfox.org:8080/1234/12345678/31498
@@ -363,4 +363,38 @@ http://red.ipfox.org:8080/1234/12345678/31487
 EXTINF:-1 tvg-id="" tvg-name="UA UKRAINE" tvg-logo="https://live-ua-tv.cosmonova.net.ua/images/offline-images/stub_ua.png" group-title="Elang Perkasa-News",UA UKRAINE 
 https://ua-tv.cdn-02.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Kebon Kopi" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Kebon Kopi
+https://pelindung.bandung.go.id:3443/video/DAHUA/KEBON.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Katamso" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Katamso
+https://pelindung.bandung.go.id:3443/video/DAHUA/Katamsoke.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Surat" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Surat
+https://pelindung.bandung.go.id:3443/video/DAHUA/Surat.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Pasar Kosambi 1" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Pasar Kosambi 1
+https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKomb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Pasar Kosambi 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Pasar Kosambi 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKosam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-GedeBage" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-GedeBage
+https://pelindung.bandung.go.id:3443/video/DAHUA/GEDEBAGE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Gasibu" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Gasibu
+https://pelindung.bandung.go.id:3443/video/DAHUA/GASIBU.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Sebrang Pasar Baru" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Sebrang Pasar Baru
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Otistasebrangpasarbaru.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Ahmad Yani" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Ahmad Yani
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/AhmadYanipertigaanmalabardua.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Balaikota 1" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Balaikota 1
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Balaikota.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Balai Kota 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Balaikota 2
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Balkot.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Cicendo" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Cicendo
+https://pelindung.bandung.go.id:3443/video/DAHUA/Cicendo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Pusdai" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Pusdai
+https://pelindung.bandung.go.id:3443/video/DAHUA/Pusda.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Taman Sari 1" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Tamansari 1
+https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansri.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Tamansari 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Tamansari 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Cimindi" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Cimindi
+https://pelindung.bandung.go.id:3443/video/DAHUA/CIMD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-BEC" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-BEC
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/PurnawarmanBEC.m3u8
 
