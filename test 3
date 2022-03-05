@@ -1,2 +1,11 @@
-#EXTINF:-1 tvg-id="" tvg-name="Cibeureum - Bandung" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",Cibeureum - Bandung
-https://pelindung.bandung.go.id:3443/video/DAHUA/KEBON.m3u8
+#EXTINF
+#EXTINF:-1 group-title="USEETV FULL",USEESPORT 1
+https://cdnbpp1.useetv.com/joss/15/useesport/chunklist_w1241634564_b894100_sleng_43197.****
+#EXTINF:-1 group-title="USEETV FULL",USEESPORT 2
+https://cdnbpp1.useetv.com/joss/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.****
+#EXTINF:-1 group-title="USEETV FULL",CHAMPION 1
+https://cdnbpp1.useetv.com/joss/15/champion1/chunklist_w2141102661_b894100_sleng_57560.****
+#EXTINF:-1 group-title="USEETV FULL",CHAMPION 2
+https://cdnbpp1.useetv.com/joss/15/champion2/chunklist_w670832473_b894100_sleng_4798.****
+#EXTINF:-1 group-title="USEETV FULL",BEIN SPORT 1
+https://cdnbpp1.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-
