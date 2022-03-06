@@ -32,7 +32,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1646573634~acl=/vp9/204_stream.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Elang Perkasa-Lokal",Indosiar
 http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 #EXTINF:-1 tvg-id="" tvg-name="Kompas tv" tvg-logo="https://i.ibb.co/R3Hyxc1/kompastv-home-tv.png" group-title="Elang Perkasa-Lokal",Kompas tv
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G6AKJVnjY2rYikWouHxU-iA)/dm/3/x6pz4sa/d/live-2.m3u8#cell=lsg1
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/M9c0sy2/metrotv-home-tv.png" group-title="Elang Perkasa-Lokal",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Net HD" tvg-logo="" group-title="Elang Perkasa-Lokal",Net HD
