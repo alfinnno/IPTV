@@ -1,4 +1,4 @@
-#EXTINF:-1,Diema Sport
-http://93.155.251.94:18014
-#EXTINF:-1,Diema Sport 2
-http://93.155.251.94:18015
+#EXTINF:-1,Diema Sport HD
+http://151.237.78.4:40666/udp/239.2.1.38:4000
+#EXTINF:-1,Diema Sport 2 HD
+http://151.237.78.4:40666/udp/239.1.1.88:4000
