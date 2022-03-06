@@ -19,10 +19,16 @@ http://goldenlivektv.com/M*M*K/Channel_Cnnindonesia.m3u8
 https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/HGkQ2YB/mnctv-home-tv.pnghttps://i.ibb.co/HGkQ2YB/mnctv-home-tv.png" group-title="Elang Perkasa-Lokal",MNC TV 
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="i News" tvg-logo="https://i.ibb.co/KWttnf1/inews-home-tv.png" group-title="Elang Perkasa-Lokal",i News
+https://d25tjwq1t7aw0m.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.ibb.co/Qmh4NMJ/rtv-home-tv.png" group-title="Elang Perkasa-Lokal",RTV
 http://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.pn"group-title="Elang Perkasa-Lokal",ANTV
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="Elang Perkasa-Lokal",GTV
+https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-avc1_100000=1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png"group-title="Elang Perkasa-Lokal",ANTV
 http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png"group-title="Elang Perkasa-Lokal",SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1646573634~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=38ba142ead54b037d9b67c6080000283eff4e2e88e6124caa3fab61d8ef4a599/vp9/204_stream.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Elang Perkasa-Lokal",Indosiar
 http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 #EXTINF:-1 tvg-id="" tvg-name="Kompas tv" tvg-logo="https://i.ibb.co/R3Hyxc1/kompastv-home-tv.png" group-title="Elang Perkasa-Lokal",Kompas tv
@@ -289,5 +295,15 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansr.m3u8
 https://pelindung.bandung.go.id:3443/video/DAHUA/CIMD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDG-BEC" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-BEC
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/PurnawarmanBEC.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UKRAINA" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",UKRAINA
-https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/24111/2022/02/24/0400.mp4/chunklist_w330196640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cimahi-Cihanjuang" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",Cimahi-Cihanjuang
+https://smartcity.cimahikota.go.id/video/46/video46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Alun Alun Bandung" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Alun Alun Bandung
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowertiga.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Pertigaan Batununggal" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Pertigaan Batununggal
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/WaaspertigaankompleksBatununggal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cimahi-Cimindi 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",Cimahi-Cimindi 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/CIMD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Kantor Pos Asia Afrika" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Kantor Pos Asia Afrika
+https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Kantor Pos Asia Afrika 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Kantor Pos Asia Afrika 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTo.m3u8
