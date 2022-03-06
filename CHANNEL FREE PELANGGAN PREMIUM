@@ -7,56 +7,54 @@ https://video.twimg.com/ext_tw_video/1497513444076969986/pu/vid/1280x720/fTr8JL0
 
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a1xidq9ew6pgtfs/r.png" group-title="Elang Perkasa-Lokal",RCTI
-https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
-https://cdn-livetv-studio.metube.id/rcti.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png"group-title="Elang Perkasa-Lokal",ANTV
-http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV (FTA)" tvg-logo="https://www.dropbox.com/s/aum1wh3uhiki7jk/kisspng-mnctv-internet-television-media-nusantara-citra-group-5ab9dbcc7a3020.9213620915221298685005.png?dl=1" group-title="Elang Perkasa-Lokal",MNC TV (FTA)
-https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="Elang Perkasa-Lokal",Berita Satu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kompas tv" tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="Elang Perkasa-Lokal",Kompas tv
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bali tv" tvg-logo="" group-title="Elang Perkasa-Lokal",Bali tv
-https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="" group-title="Elang Perkasa-Lokal",TVRI
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="https://www.dropbox.com/s/3b8svah8zll12qr/kisspng-trans7-television-in-indonesia-television-in-indon-news-anchor-on-tv-breaking-news-5b498f32577173.1353364015315474423582.png?dl=1" group-title="Elang Perkasa-Lokal",Trans 7 
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1408254284_b544100_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="Elang Perkasa-Lokal",TRANS TV
-http://rr2.dens.tv/s/s05/index.m3u8
-http://nonton.wap.sh/id/003.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Elang Perkasa-Lokal",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="Elang Perkasa-Lokal",METRO TV
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Elang Perkasa-Lokal",Trans 7 
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1408254284_b544100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia HD" tvg-logo="https://i.ibb.co/hyWjnZ7/cnbc-indonesia-home-tv.png" group-title="Elang Perkasa-Lokal",CNBC Indonesia HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia HD" tvg-logo="https://i.ibb.co/GVqKN0m/cnn-indonesia-home-tv.png" group-title="Elang Perkasa-Lokal",CNN Indonesia HD
+http://goldenlivektv.com/M*M*K/Channel_Cnnindonesia.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png" group-title="Elang Perkasa-Lokal",RCTI
+https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/HGkQ2YB/mnctv-home-tv.pnghttps://i.ibb.co/HGkQ2YB/mnctv-home-tv.png" group-title="Elang Perkasa-Lokal",MNC TV 
+https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.ibb.co/Qmh4NMJ/rtv-home-tv.png" group-title="Elang Perkasa-Lokal",RTV
+http://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.pn"group-title="Elang Perkasa-Lokal",ANTV
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Elang Perkasa-Lokal",Indosiar
+http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+#EXTINF:-1 tvg-id="" tvg-name="Kompas tv" tvg-logo="https://i.ibb.co/R3Hyxc1/kompastv-home-tv.png" group-title="Elang Perkasa-Lokal",Kompas tv
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/M9c0sy2/metrotv-home-tv.png" group-title="Elang Perkasa-Lokal",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Net HD" tvg-logo="" group-title="Elang Perkasa-Lokal",Net HD
 https://akudandia.xyz/locs/akudandia-875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://i.ibb.co/FxD8rj8/beritasatu-home-tv.png" group-title="Elang Perkasa-Lokal",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RRI Net" tvg-logo="" group-title="Elang Perkasa-Lokal",RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="Elang Perkasa-Lokal",RTV
-http://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia HD" tvg-logo="" group-title="Elang Perkasa-Lokal",CNN Indonesia HD
-http://goldenlivektv.com/M*M*K/Channel_Cnnindonesia.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia HD" tvg-logo="" group-title="Elang Perkasa-Lokal",CNBC Indonesia HD
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Berita Satu HD" tvg-logo="" group-title="Elang Perkasa-Lokal",Berita Satu HD
+#EXTINF:-1 tvg-id="" tvg-name="Bali tv" tvg-logo="" group-title="Elang Perkasa-Lokal",Bali tv
+https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/d5tmxwX/tvri-home-tv.png" group-title="Elang Perkasa-Lokal",TVRI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu HD" tvg-logo="https://i.ibb.co/FxD8rj8/beritasatu-home-tv.png" group-title="Elang Perkasa-Lokal",Berita Satu HD
 http://goldenlivektv.com/M*M*K/Channel_Beritasatu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Berita Satu World HD" tvg-logo="" group-title="Elang Perkasa-Lokal",Berita Satu World HD
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu World HD" tvg-logo="https://i.ibb.co/FxD8rj8/beritasatu-home-tv.png" group-title="Elang Perkasa-Lokal",Berita Satu World HD
 http://goldenlivektv.com/M*M*K/Channel_Beritasatuworld.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jakarta Globe Channel HD" tvg-logo="" group-title="Elang Perkasa-Lokal",Jakarta Globe Channel HD
 http://goldenlivektv.com/M*M*K/Channel_Jakartaglobe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NusantaraTV HD" tvg-logo="" group-title="Elang Perkasa-Lokal",NusantaraTV HD
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="Elang Perkasa-Lokal",INDOSIAR
-http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 #EXTINF:-1 tvg-id="" tvg-name="Usee Photo (MAXSTREAM)" tvg-logo="" group-title="Elang Perkasa-Lokal",Usee Photo 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UseePrime (MAXSTREAM)" tvg-logo="" group-title="Elang Perkasa-Lokal",UseePrime 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Edukasi (MAXSTREAM)" tvg-logo="" group-title="Elang Perkasa-Lokal",TV Edukasi 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
+
+
 
 <----------------------------------- Knowledge Channel --------------------------------------->
 
@@ -220,7 +218,7 @@ http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 group-title="Elang Perkasa-Sport", TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium 1" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Elang Perkasa-Sport",Bein Sport Premium 1
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium 1" tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Elang Perkasa-Sport",Bein Sport Premium 1
 http://red.ipfox.org:8080/1234/12345678/31529
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium 2" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="Elang Perkasa-Sport",Bein Sport Premium 2
 http://red.ipfox.org:8080/1234/12345678/31528
@@ -240,7 +238,7 @@ http://red.ipfox.org:8080/1234/12345678/31532
 http://red.ipfox.org:8080/1234/12345678/31531
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F207%2Fbein-sports-hd-1.png" group-title="Elang Perkasa-Sport",Bein Sport 7
 http://red.ipfox.org:8080/1234/12345678/31530
-EXTINF:-1 tvg-id="" tvg-name="UESPN 2" tvg-logo="https://www.pngitem.com/pimgs/m/556-5567132_espn-2-logo-png-transparent-png.png" group-title="Elang Perkasa-Sport",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="UESPN 2" tvg-logo="https://www.pngitem.com/pimgs/m/556-5567132_espn-2-logo-png-transparent-png.png" group-title="Elang Perkasa-Sport",ESPN 2
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
 
