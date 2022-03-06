@@ -40,3 +40,5 @@ http://45.118.114.26/camera/Batununggal.m3u8
 http://45.118.114.26/camera/Gardujati.m3u8
 EXTINF:-1 tvg-id="" tvg-name="BDG-Pasteur" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Pasteur
 http://45.118.114.26/camera/Pasteur.m3u8
+EXTINF:-1 tvg-id="" tvg-name="CIMAHI-Cihanjuang" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV", CIMAHI-Cihanjuang
+https://smartcity.cimahikota.go.id/video/46/video46.m3u8
