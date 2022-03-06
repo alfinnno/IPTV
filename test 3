@@ -1,9 +1,0 @@
-#EXTINF
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="Sports", Usee Sports 1
-http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sports", Usee Sports 2
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
-
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?
