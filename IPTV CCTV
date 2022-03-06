@@ -32,3 +32,11 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansr.m3u8
 https://pelindung.bandung.go.id:3443/video/DAHUA/CIMD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDG-BEC" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-BEC
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/PurnawarmanBEC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Supratman" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Supratman
+http://45.118.114.26/camera/Supratman.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP Batununggal" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",SP Batununggal
+http://45.118.114.26/camera/Batununggal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Gardujati" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Gardujati
+http://45.118.114.26/camera/Gardujati.m3u8
+EXTINF:-1 tvg-id="" tvg-name="BDG-Pasteur" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV",BDG-Pasteur
+http://45.118.114.26/camera/Pasteur.m3u8
