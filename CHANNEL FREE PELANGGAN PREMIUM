@@ -244,9 +244,20 @@ http://red.ipfox.org:8080/1234/12345678/31532
 http://red.ipfox.org:8080/1234/12345678/31531
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F207%2Fbein-sports-hd-1.png" group-title="Elang Perkasa-Sport",Bein Sport 7
 http://red.ipfox.org:8080/1234/12345678/31530
-#EXTINF:-1 tvg-id="" tvg-name="UESPN 2" tvg-logo="https://www.pngitem.com/pimgs/m/556-5567132_espn-2-logo-png-transparent-png.png" group-title="Elang Perkasa-Sport",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://www.pngitem.com/pimgs/m/556-5567132_espn-2-logo-png-transparent-png.png" group-title="Elang Perkasa-Sport",ESPN 2
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-SPORTS-2.jpg" group-title="Elang Perkasa-Sport",Star Sports 2
+http://103.166.253.222:80/hls/starsports2.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brazil" tvg-logo="https://www.pngitem.com/pimgs/m/556-5567132_espn-2-logo-png-transparent-png.png" group-title="Elang Perkasa-Sport",ESPN Brazil
+http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png" group-title="Elang Perkasa-Sport",PTV Sports
+http://103.24.96.74/stream/ptvsports/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Diema Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png" group-title="Elang Perkasa-Sport",Diema Sports
+http://212.102.60.40:2200/NL/diemasport1-bul/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="Diema Sports 2" tvg-logo="https://ewsat.com/img/DIEMA_SPORT_2.png" group-title="Elang Perkasa-Sport",Diema Sports 2
+http://212.102.60.40:2200/NL/diemasport2-bul/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="Diema Sports 3" tvg-logo="https://networx.bg/img/tv_logos/DiemaSport3HD.svg" group-title="Elang Perkasa-Sport",Diema Sports 3
+http://212.102.60.40:2200/NL/sportplushd-bul/tracks-v1a1/mono.m3u8?token=
 
 
 <----------------------------------- LIVE CCTV --------------------------------------->
