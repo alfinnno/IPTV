@@ -1,65 +1,129 @@
-#EXTINF:-1,Sky Sports Box Office HD
-http://149.202.215.151:8080/live/home/home/12843.ts
-#EXTINF:-1,Sky Sports Mix HD
-http://149.202.215.151:8080/live/home/home/12779.ts
-#EXTINF:-1,Sky Sports News HD
-http://149.202.215.151:8080/live/home/home/586.ts
-#EXTINF:-1,Sky Sports News HD*
-http://149.202.215.151:8080/live/home/home/12147.ts
-#EXTINF:-1,Sky Sports News HQHD
-http://149.202.215.151:8080/live/home/home/44101.ts
-#EXTINF:-1,Sky Sports News HQHD*
-http://149.202.215.151:8080/live/home/home/44102.ts
-#EXTINF:-1,Sky Sports Main Events HD
-http://149.202.215.151:8080/live/home/home/585.ts
-#EXTINF:-1,Sky Sports Main Events SD
-http://149.202.215.151:8080/live/home/home/579.ts
-#EXTINF:-1,Sky Sports Cricket HD
-http://149.202.215.151:8080/live/home/home/584.ts
-#EXTINF:-1,Sky Sports Cricket SD
-http://149.202.215.151:8080/live/home/home/578.ts
-#EXTINF:-1,Sky Sports Action HD
-http://149.202.215.151:8080/live/home/home/583.ts
-#EXTINF:-1,Sky Sports Action SD
-http://149.202.215.151:8080/live/home/home/577.ts
-#EXTINF:-1,Sky Sports Golf HD
-http://149.202.215.151:8080/live/home/home/582.ts
-#EXTINF:-1,Sky Sports Golf SD
-http://149.202.215.151:8080/live/home/home/576.ts
-#EXTINF:-1,Sky Sports Premier League HD
-http://149.202.215.151:8080/live/home/home/581.ts
-#EXTINF:-1,Sky Sports Premier League SD
-http://149.202.215.151:8080/live/home/home/575.ts
-#EXTINF:-1,Sky Sport Arena HD*
-http://149.202.215.151:8080/live/home/home/32740.ts
-#EXTINF:-1,Sky Sport Arena HD
-http://149.202.215.151:8080/live/home/home/32739.ts
-#EXTINF:-1,Sky Sport Arena SD
-http://149.202.215.151:8080/live/home/home/32738.ts
-#EXTINF:-1,Sky Sport Football HD*
-http://149.202.215.151:8080/live/home/home/32743.ts
-#EXTINF:-1,Sky Sport Football HD
-http://149.202.215.151:8080/live/home/home/32742.ts
-#EXTINF:-1,Sky Sport Football SD
-http://149.202.215.151:8080/live/home/home/32741.ts
-#EXTINF:-1,Sky Sports F1 HD
-http://149.202.215.151:8080/live/home/home/580.ts
-#EXTINF:-1,Sky Sports F1 SD
-http://149.202.215.151:8080/live/home/home/574.ts
-
-#EXTINF:-1,|IT| SKY SPORT 24 HD
-http://185.23.213.162:8789/live/ania/ania/23588.m3u8
-#EXTINF:-1,|IT| SKY SPORT UNO HD
-http://185.23.213.162:8789/live/ania/ania/23587.m3u8
-#EXTINF:-1,|IT| SKY SPORT 2 HD
-http://185.23.213.162:8789/live/ania/ania/23586.m3u8
-#EXTINF:-1,|IT| SKY SPORT FOOTBALL HD
-http://185.23.213.162:8789/live/ania/ania/23585.m3u8
-#EXTINF:-1,|IT| SKY SPORT ARENA FHD
-http://185.23.213.162:8789/live/ania/ania/23584.m3u8
-#EXTINF:-1,|IT| SKY SPORT COLLECTION HD
-http://185.23.213.162:8789/live/ania/ania/23583.m3u8
-#EXTINF:-1,|IT| SKY SPORT F1
-http://185.23.213.162:8789/live/ania/ania/23580.m3u8
-#EXTINF:-1,|IT| SKY MOTO GP
-http://185.23.213.162:8789/live/ania/ania/23579.m3u8
+#EXTM3U
+#EXTINF:-1,bein SPORTS 1 4K ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/24697
+#EXTINF:-1,beIN SPORTS 1 FHD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/22157
+#EXTINF:-1,beIN SPORTS 1 HD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14980
+#EXTINF:-1,beIN SPORTS 1 SD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14981
+#EXTINF:-1,bein SPORTS 2 4K ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/24696
+#EXTINF:-1,beIN SPORTS 2 FHD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/22158
+#EXTINF:-1,beIN SPORTS 2 HD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14982
+#EXTINF:-1,beIN SPORTS 2 SD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14983
+#EXTINF:-1,bein SPORTS 3 4K ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/24695
+#EXTINF:-1,beIN SPORTS 3 FHD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/22159
+#EXTINF:-1,beIN SPORTS 3 HD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14984
+#EXTINF:-1,beIN SPORTS 3 SD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14985
+#EXTINF:-1,bein SPORTS 4 4K ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/24694
+#EXTINF:-1,beIN SPORTS 4 FHD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/22160
+#EXTINF:-1,beIN SPORTS 4 HD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14986
+#EXTINF:-1,beIN SPORTS 4 SD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14987
+#EXTINF:-1,bein SPORTS 5 4K ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/24693
+#EXTINF:-1,beIN SPORTS 5 FHD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/22161
+#EXTINF:-1,beIN SPORTS 5 HD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14988
+#EXTINF:-1,beIN SPORTS 5 SD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14989
+#EXTINF:-1,bein SPORTS 6 4K ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/24692
+#EXTINF:-1,beIN SPORTS 6 FHD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/22162
+#EXTINF:-1,beIN SPORTS 6 HD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14990
+#EXTINF:-1,beIN SPORTS 6 SD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14991
+#EXTINF:-1,bein SPORTS 7 4K ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/24691
+#EXTINF:-1,beIN SPORTS 7 FHD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/22163
+#EXTINF:-1,beIN SPORTS 7 HD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14992
+#EXTINF:-1,beIN SPORTS 7 SD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14993
+#EXTINF:-1,bein SPORTS 8 4K ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/24690
+#EXTINF:-1,beIN SPORTS 8 FHD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/18284
+#EXTINF:-1,beIN SPORTS 8 HD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14994
+#EXTINF:-1,beIN SPORTS 8 SD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14995
+#EXTINF:-1,bein SPORTS 9 4K ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/24689
+#EXTINF:-1,beIN SPORTS 9 FHD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/21515
+#EXTINF:-1,beIN SPORTS 9 HD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14996
+#EXTINF:-1,beIN SPORTS 9 SD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14997
+#EXTINF:-1,bein SPORTS 10 4K ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/24688
+#EXTINF:-1,beIN SPORTS 10 FHD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/21516
+#EXTINF:-1,beIN SPORTS 10 HD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14998
+#EXTINF:-1,beIN SPORTS 10 SD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14999
+#EXTINF:-1,beIN SPORTS 11 HD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/15000
+#EXTINF:-1,beIN SPORTS 12 HD ARB
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/15001
+#EXTINF:-1,beIN SPORTS 1 HD FR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14977
+#EXTINF:-1,beIN SPORTS 1 FR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/5522
+#EXTINF:-1,beIN SPORTS 2 FHD FR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14978
+#EXTINF:-1,beIN SPORTS 2 HD FR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/15637
+#EXTINF:-1,beIN SPORTS 3 FHD FR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/4477
+#EXTINF:-1,beIN SPORTS 3 HD FR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/14979
+#EXTINF:-1,beIN SPORTS MAX 4 FHD FR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/18218
+#EXTINF:-1,beIN SPORTS MAX 5 FR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/18219
+#EXTINF:-1,beIN SPORTS MAX 6 FHD FR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/18220
+#EXTINF:-1,beIN SPORTS MAX 7 FHD FR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/18221
+#EXTINF:-1,beIN SPORTS MAX 8 FHD FR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/18222
+#EXTINF:-1,beIN SPORTS MAX 10 FHD FR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/18224
+#EXTINF:-1,beIN SPORTS MAX 9 FHD FR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/18223
+#EXTINF:-1,beIN SPORTS 1 HD TR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/15719
+#EXTINF:-1,beIN SPORTS 2 HD TR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/15943
+#EXTINF:-1,beIN SPORTS 3 HD TR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/6414
+#EXTINF:-1,beIN SPORTS 4 HD TR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/15722
+#EXTINF:-1,beIN SPORTS 4 HD TR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/13665
+#EXTINF:-1,beIN SPORTS 1 FHD TR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/17739
+#EXTINF:-1,beIN SPORTS 2 FHD TR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/17740
+#EXTINF:-1,beIN SPORTS 3 FHD TR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/17741
+#EXTINF:-1,beIN SPORTS 4 FHD TR
+http://tv.iptvlm.iptv.uno:80/7XABKYtKPh7305/oeFntx4050/19038
