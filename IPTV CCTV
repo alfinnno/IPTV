@@ -52,3 +52,5 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/CIMI.m3u8
 https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDG-Kantor Pos Asia Afrika 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-Kantor Pos Asia Afrika 2
 https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALI-JALAN RAYA KUTA" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BALI-JALAN RAYA KUTA
+http://103.138.206.40/camera/SP_RAYA_KUTA.m3u8
