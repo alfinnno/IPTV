@@ -18,7 +18,7 @@ http://goldenlivektv.com/M*M*K/Channel_Cnnindonesia.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png" group-title="Elang Perkasa-Lokal",RCTI
 https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/HGkQ2YB/mnctv-home-tv.pnghttps://i.ibb.co/HGkQ2YB/mnctv-home-tv.png" group-title="Elang Perkasa-Lokal",MNC TV 
-https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
+https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="i News" tvg-logo="https://i.ibb.co/KWttnf1/inews-home-tv.png" group-title="Elang Perkasa-Lokal",i News
 https://d25tjwq1t7aw0m.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.ibb.co/Qmh4NMJ/rtv-home-tv.png" group-title="Elang Perkasa-Lokal",RTV
