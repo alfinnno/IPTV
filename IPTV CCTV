@@ -8,11 +8,11 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/Surat.m3u8
 https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKomb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDG-Pasar Kosambi 2" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-Pasar Kosambi 2
 https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKosam.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BDG-GedeBage" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2V",BDG-GedeBage
+#EXTINF:-1 tvg-id="" tvg-name="BDG-GedeBage" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-GedeBage
 https://pelindung.bandung.go.id:3443/video/DAHUA/GEDEBAGE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDG-Gasibu" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-Gasibu
 https://pelindung.bandung.go.id:3443/video/DAHUA/GASIBU.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BDG-Sebrang Pasar Baru" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2V",BDG-Sebrang Pasar Baru
+#EXTINF:-1 tvg-id="" tvg-name="BDG-Sebrang Pasar Baru" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-Sebrang Pasar Baru
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/Otistasebrangpasarbaru.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDG-Ahmad Yani" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-Ahmad Yani
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/AhmadYanipertigaanmalabardua.m3u8
