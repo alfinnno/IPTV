@@ -342,3 +342,31 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/KEBO.m3u8
 https://pelindung.bandung.go.id:3443/video/DAHUA/KebonKa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDG-SIMPANG BRAGA " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SIMPANG BRAGA
 https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragatiga.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-BPK " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-BPK
+https://cctvjss.jogjakota.go.id/atcs/ATCS_bpk.stream/chunklist_w1745823342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-SIMPANG TERBAN " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-SIMPANG TERBAN
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Utara.stream/chunklist_w655354167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-TUNJUNG " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-TUNJUNG
+https://cctvjss.jogjakota.go.id/atcs/ATCS_tunjung.stream/chunklist_w43735948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-SIMPANG AMONGROGO " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-SIMPANG AMONGROGO
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Amongrogo_View_Timur.stream/chunklist_w1072091283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-SIMPANG DEMANGAN " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-SIMPANG DEMANGAN
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/chunklist_w1474807984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-GLAGAHSARI " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-GLAGAHSARI
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Glagahsari.stream/chunklist_w1018711802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-GONDOMANAN " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-GONDOMANAN
+https://cctvjss.jogjakota.go.id/atcs/ATCS_gondomanan.stream/chunklist_w1791684562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-MIROTA " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-MIROTA
+https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/chunklist_w2104392688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-BALAIKOTA " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-BALAIKOTA
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Utara.stream/chunklist_w366789400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-KMNOL " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-KMNOL
+https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/chunklist_w1249764223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-TAMANSARI " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-TAMANSARI
+https://cctvjss.jogjakota.go.id/atcs/ATCS_tamansari.stream/chunklist_w1144663381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-DEMANGAN 2 " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-DEMANGAN 2
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Selatan.stream/chunklist_w1270572049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-SAMPING MALIOBORO " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-SAMPING MALIOBORO
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_7_Mall_Selatan.stream/chunklist_w2135328777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOGJA-PASAR BERINGHARJO " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-PASAR BERINGHARJO
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/chunklist_w1149089639.m3u8
