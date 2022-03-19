@@ -233,7 +233,7 @@ http://red.ipfox.org:8080/1234/12345678/31528
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport Premium 3" tvg-logo="https://www.firekora.com/wp-content/uploads/2021/03/3-2Bpremium.png" group-title="Elang Perkasa-Sport",Bein Sport Premium 3
 http://red.ipfox.org:8080/1234/12345678/31496
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Elang Perkasa-Sport",Bein Sport 1
-http://red.ipfox.org:8080/1234/12345678/31536
+http://77.247.109.116/live/abr_b-2/live/b-2_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Elang Perkasa-Sport",Bein Sport 2
 http://red.ipfox.org:8080/1234/12345678/31535
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/1200px-Logo_beIN_SPORTS_3.png" group-title="Elang Perkasa-Sport",Bein Sport 3
