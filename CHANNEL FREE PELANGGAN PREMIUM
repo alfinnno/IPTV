@@ -30,7 +30,7 @@ http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png"group-title="Elang Perkasa-Lokal",SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1646573634~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=38ba142ead54b037d9b67c6080000283eff4e2e88e6124caa3fab61d8ef4a599/vp9/204_stream.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Elang Perkasa-Lokal",Indosiar
-https://pull.jzdyll.com/leisu/1116243030585913.m3u8?auth_key=1647704851-0-0-4df238bfeaa553d52a0aaabac4592f24
+https://play.zkshuye.cn/live/sd-1-3700133.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kompas tv" tvg-logo="https://i.ibb.co/R3Hyxc1/kompastv-home-tv.png" group-title="Elang Perkasa-Lokal",Kompas tv
 https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G6AKJVnjY2rYikWouHxU-iA)/dm/3/x6pz4sa/d/live-2.m3u8#cell=lsg1
 #EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/M9c0sy2/metrotv-home-tv.png" group-title="Elang Perkasa-Lokal",Metro TV
