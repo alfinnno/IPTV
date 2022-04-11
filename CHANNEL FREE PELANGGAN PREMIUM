@@ -24,7 +24,7 @@ https://d25tjwq1t7aw0m.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-av
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.ibb.co/Qmh4NMJ/rtv-home-tv.png" group-title="Elang Perkasa-Lokal",RTV
 http://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="Elang Perkasa-Lokal",GTV
-https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-avc1_100000=1.m3u8
+https://list.iptvcat.com/my_list/s/40f59089e00b5fea1e922ecc41b4b014.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png"group-title="Elang Perkasa-Lokal",ANTV
 http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png"group-title="Elang Perkasa-Lokal",SCTV
