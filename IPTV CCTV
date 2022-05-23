@@ -116,6 +116,35 @@ https://pelindung.bandung.go.id:3443/video/DAHUA/KIRC.m3u8
 https://pelindung.bandung.go.id:3443/video/DAHUA/KIRCON.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDG-KOPO CITARIP " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-KOPO CITARIP
 https://pelindung.bandung.go.id:3443/video/DPU/kopocitarip.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="BDG-GEDEBAGE 2 " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-GEDEBAGE 2
+http://45.118.114.26/camera/Gedebage.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP BUAH BATU " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP BUAH BATU
+http://45.118.114.26/camera/Buahbatu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-CIBEUREUM " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-CIBEUEREUM
+http://45.118.114.26/camera/Cibeureum.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP LIMA " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP LIMA
+http://45.118.114.26/camera/SimpangLima.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-TOL PASTEUR " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-TOL PASTEUR
+http://45.118.114.26/camera/TolPasteur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP PASIR KALIKI IP 1 " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP PASIR KALIKI 1
+http://45.118.114.26/camera/PasirKalikiIP.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP PASIR KALIKI IP 2 " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP PASIR KALIKI 2
+http://45.118.114.26/camera/PasirKalikiAng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP TAMAN SARI BALTOS " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP TAMAN SARI BALTOS
+http://45.118.114.26/camera/Tamansari.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP CIHAMPELAS " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP CIHAMPELAS
+http://45.118.114.26/camera/CihampelasPTZ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP MERDEKA ACEH " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP MERDEKA ACEH
+http://45.118.114.26/camera/MerdekaAceh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP GASIBU " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP GASIBU
+http://45.118.114.26/camera/Telkom.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP PAHLAWAN ITENAS" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP PAHLAWAN ITENAS
+http://45.118.114.26/camera/Pahlawan.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP CIKUTRA" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP CIKUTRA
+http://45.118.114.26/camera/Cikutra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP PADASUKA" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP PADASUKA
+http://45.118.114.26/camera/Padasuka.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP CICAHEUM" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP CICAHEUM
+http://45.118.114.26/camera/Cicaheum.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP CICAHEUM" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP CICAHEUM
 
