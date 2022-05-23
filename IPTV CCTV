@@ -146,5 +146,9 @@ http://45.118.114.26/camera/Cikutra.m3u8
 http://45.118.114.26/camera/Padasuka.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDG-SP CICAHEUM" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP CICAHEUM
 http://45.118.114.26/camera/Cicaheum.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BDG-SP CICAHEUM" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP CICAHEUM
+#EXTINF:-1 tvg-id="" tvg-name="BDG-SP IP" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-SP IP
+http://45.118.114.26/camera/IstanaPlaza.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-JALAN RIAU DEPAN PENGADILAN" tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-JALAN RIAU DEPAN PENGADILAN
+http://45.118.114.26/camera/Ruasistiqomahcihapit.m3u8
+
 
