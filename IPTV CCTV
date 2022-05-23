@@ -102,3 +102,20 @@ https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Selatan.stream/c
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_7_Mall_Selatan.stream/chunklist_w2135328777.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JOGJA-PASAR BERINGHARJO " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",JOGJA-PASAR BERINGHARJO
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/chunklist_w1149089639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-PAGARSIH " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-PAGARSIH
+https://pelindung.bandung.go.id:3443/video/DPU/pagarsih.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-CIKUTRA BARAT " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-CIKUTRA BARAT
+https://pelindung.bandung.go.id:3443/video/DPU/cikutrabarat.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-TERMINAL DAGO " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-TERMINAL DAGO
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/IrHJuandaTerminaldagodua.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-ITC KEBON KALAPA " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-ITC KEBON KALAPA
+https://pelindung.bandung.go.id:3443/video/DAHUA/ITCkebon.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-KIRCON 1 " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-KIRCON 1
+https://pelindung.bandung.go.id:3443/video/DAHUA/KIRC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-KIRCON 2 " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-KIRCON 2
+https://pelindung.bandung.go.id:3443/video/DAHUA/KIRCON.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDG-KOPO CITARIP " tvg-logo="https://i.ibb.co/XbYsYL2/live-event-home-tv.png" group-title="Live CCTV 2",BDG-KOPO CITARIP
+https://pelindung.bandung.go.id:3443/video/DPU/kopocitarip.m3u8
+
+
+
